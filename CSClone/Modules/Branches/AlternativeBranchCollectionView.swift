@@ -44,7 +44,7 @@ class AlternativeBranchCollectionView: UIView {
     func configureViews() {
         self.addSubview(collectionView)
         collectionView.addSubview(featuredDepartmentCollectionView)
-        collectionView.backgroundColor = .black
+        collectionView.backgroundColor = .systemGroupedBackground
         featuredDepartmentCollectionView.backgroundColor = .red
     }
     func configureConstraints() {

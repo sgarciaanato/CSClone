@@ -70,7 +70,7 @@ class DepartmentPresenter {
         guard let topProducts = aisle.topProducts else { return }
         var snapshot = dataSource.snapshot()
         snapshot.appendSections([aisle])
-        snapshot.appendItems(topProducts)
+        snapshot.appendItems(topProducts, toSection: aisle)
         dataSource.apply(snapshot)
     }
     

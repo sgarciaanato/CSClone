@@ -83,7 +83,7 @@ class StoreListPresenter {
     func applySnapshot(storeContainer: StoreContainer) {
         var snapshot = dataSource.snapshot()
         snapshot.appendSections([storeContainer])
-        snapshot.appendItems(storeContainer.items)
+        snapshot.appendItems(storeContainer.items, toSection: storeContainer)
         dataSource.apply(snapshot)
     }
 }

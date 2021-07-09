@@ -122,7 +122,7 @@ class BranchPresenter {
     }
     
     func configureDepartment<T: SelfConfiguringDepartmentCell>(_ cellType: T.Type, with department: Department, for indexPath: IndexPath) -> T {
-        guard let cell = _viewController?.mainView.branchCollectionView.collectionView.dequeueReusableCell(withReuseIdentifier: cellType.reuseIdentifier, for: indexPath) as? T else {
+        guard let cell = _viewController?.mainView.alternativeBranchCollectionView.collectionView.dequeueReusableCell(withReuseIdentifier: cellType.reuseIdentifier, for: indexPath) as? T else {
             fatalError("Unable to dequeue \(cellType)")
         }
         cell.configureWith(department)
@@ -143,6 +143,8 @@ class BranchPresenter {
         autoScrollPromotionsTimer?.invalidate()
         autoScrollPromotionsIndex = 0
         autoScrollPromotionsTimer = Timer.scheduledTimer(timeInterval: 4.0, target: self, selector: #selector(autoScrollPromotions), userInfo: nil, repeats: true)
+        guard let departments = self.branchDetailContainer?.departments else { return }
+        applyDepartmentSnapshot(departments: departments)
     }
     
     @objc func autoScrollPromotions() {
@@ -168,15 +170,18 @@ class BranchPresenter {
         aislesDataSource.apply(aislesSnapshot)
     }
     
-    func applyDepartmentSnapshot() {
-        
+    func applyDepartmentSnapshot(departments: [Department]) {
+        var snapshot = alternativeDataSource.snapshot()
+        snapshot.appendSections(["department"])
+        snapshot.appendItems(departments, toSection: "department")
+        alternativeDataSource.apply(snapshot)
     }
     
     func applyFeaturedSnapshot(promotions: [BranchPromotion]?) {
         guard let promotions = promotions else { return }
         var snapshot = featuredDataSource.snapshot()
         snapshot.appendSections(["promotion"])
-        snapshot.appendItems(promotions)
+        snapshot.appendItems(promotions, toSection: "promotion")
         featuredDataSource.apply(snapshot)
     }
     
