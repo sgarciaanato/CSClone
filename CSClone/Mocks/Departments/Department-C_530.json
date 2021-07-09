@@ -1,0 +1,2874 @@
+{
+    "id": "C_530",
+    "img_url": "https://s.superpal.com/department-images/19.jpg",
+    "name": "Congelados",
+    "top_products": [{
+        "id": 77131,
+        "brand": {
+            "id": 1962,
+            "name": "Krusteaz"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 2390.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 4442.3791821561335,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$4.442/kg",
+        "regulatory_fees": [],
+        "price": 2390.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Pancakes",
+        "description": null,
+        "package": "Sabor buttermilk, Envase 538 g.",
+        "img_url": "https://s.superpal.com/product-images/77131.jpg"
+    }, {
+        "id": 69715,
+        "brand": {
+            "id": 955,
+            "name": "Jumbo"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 1190.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 2380.0,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$2.380/kg",
+        "regulatory_fees": [],
+        "price": 1190.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Arvejas",
+        "description": null,
+        "package": "Congelado, Bolsa 500 grs.",
+        "img_url": "https://s.superpal.com/product-images/69715.jpg"
+    }, {
+        "id": 69950,
+        "brand": {
+            "id": 955,
+            "name": "Jumbo"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 2150.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 6456.456456456456,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$6.456/kg",
+        "regulatory_fees": [],
+        "price": 2150.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Pulpa de Chirimoya",
+        "description": null,
+        "package": "Light, Congelado, 333 gr.",
+        "img_url": "https://s.superpal.com/product-images/69950.jpg"
+    }, {
+        "id": 69978,
+        "brand": {
+            "id": 955,
+            "name": "Jumbo"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 1910.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 5735.735735735735,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$5.736/kg",
+        "regulatory_fees": [],
+        "price": 1910.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Pulpa de Fruta",
+        "description": null,
+        "package": "Guayaba, Light, 333 gr.",
+        "img_url": "https://s.superpal.com/product-images/69978.jpg"
+    }, {
+        "id": 77176,
+        "brand": {
+            "id": 1951,
+            "name": "Turkey Hill"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 4070.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": null
+        },
+        "price_per_unit": "",
+        "regulatory_fees": [],
+        "price": 4070.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Postre Helado",
+        "description": "",
+        "package": "Fudge Ripple, Vainilla chocolate, 1.65 Litros.",
+        "img_url": "https://s.superpal.com/product-images/77176.jpg"
+    }, {
+        "id": 66812,
+        "brand": {
+            "id": 971,
+            "name": "La Cremería Savory"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 3350.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per liter",
+                "unit": "lt",
+                "amount": 3350.0,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$3.350/lt",
+        "regulatory_fees": [],
+        "price": 3350.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Helado",
+        "description": null,
+        "package": "Tres leches, Con bombones de leche condensada, 1 L",
+        "img_url": "https://s.superpal.com/product-images/66812.jpg"
+    }, {
+        "id": 72470,
+        "brand": {
+            "id": 1516,
+            "name": "Grocholl"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 3590.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 8975.0,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$8.975/kg",
+        "regulatory_fees": [],
+        "price": 3590.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Papas",
+        "description": null,
+        "package": "Gratinadas. Envase al Vacío 400 g.",
+        "img_url": "https://s.superpal.com/product-images/72470.jpg"
+    }, {
+        "id": 76913,
+        "brand": {
+            "id": 47,
+            "name": "Guallarauco"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 3350.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 10060.06006006006,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$10.060/kg",
+        "regulatory_fees": [],
+        "price": 3350.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Lúcuma",
+        "description": null,
+        "package": "Congelado, Para repostería, 333 grs.",
+        "img_url": "https://s.superpal.com/product-images/76913.jpg"
+    }, {
+        "id": 66954,
+        "brand": {
+            "id": 987,
+            "name": "Viennetta Bresler"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 2150.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": null
+        },
+        "price_per_unit": "",
+        "regulatory_fees": [],
+        "price": 2150.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Postre Helado",
+        "description": null,
+        "package": "Choco nut, 1 litro",
+        "img_url": "https://s.superpal.com/product-images/66954.jpg"
+    }, {
+        "id": 76950,
+        "brand": {
+            "id": 812,
+            "name": "Emporio La Rosa"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 6710.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per liter",
+                "unit": "lt",
+                "amount": 8387.5,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$8.388/lt",
+        "regulatory_fees": [],
+        "price": 6710.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Helado",
+        "description": null,
+        "package": "Chocolate avellana, 800 cc.",
+        "img_url": "https://s.superpal.com/product-images/76950.jpg"
+    }],
+    "aisles": [{
+        "id": "C_141",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Aperitivos y acompañamientos",
+        "num_products": 10,
+        "top_products": [{
+            "id": 76523,
+            "brand": {
+                "id": 1920,
+                "name": "Alimentos Shen"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2870.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2870.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Gyozas de Camarón",
+            "description": null,
+            "package": "Congelado, Empanaditas orientales, 12 unidades, Bo",
+            "img_url": "https://s.superpal.com/product-images/76523.jpg"
+        }, {
+            "id": 76522,
+            "brand": {
+                "id": 1920,
+                "name": "Alimentos Shen"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3950.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3950.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Arrollado Primavera",
+            "description": null,
+            "package": "Congelado, De cerdo, 10 unidades, Bolsa 400 grs.",
+            "img_url": "https://s.superpal.com/product-images/76522.jpg"
+        }, {
+            "id": 76521,
+            "brand": {
+                "id": 1920,
+                "name": "Alimentos Shen"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3950.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3950.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Arrollado Napolitano",
+            "description": null,
+            "package": "Congelado, De queso con jamón, 10 unidades, Bolsa",
+            "img_url": "https://s.superpal.com/product-images/76521.jpg"
+        }, {
+            "id": 76520,
+            "brand": {
+                "id": 175,
+                "name": "Mundo Marino"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4780.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 4780.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Empanadas Cocktail Pre Horneadas",
+            "description": null,
+            "package": "Camarón queso, 12 unid",
+            "img_url": "https://s.superpal.com/product-images/76520.jpg"
+        }, {
+            "id": 76518,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 4190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Empanadas de Cóctel",
+            "description": "",
+            "package": "Choclo, Queso y Tocino, 12 Unidades, Caja 492 grs.",
+            "img_url": "https://s.superpal.com/product-images/76518.jpg?versionId=Lbsbn0555kA5HQaMQc4u5QFl2riUSQs3"
+        }, {
+            "id": 76507,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": false,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 4190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [{
+                "title": "Restricted product",
+                "text": "This product cannot be ordered at this time.",
+                "type": "WARNING"
+            }],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Empanadas de Cóctel",
+            "description": "🌱 Organic Kaya 🌱\r\nEn cuarentena, en casa, en la playa, patinando, saliendo del mar, caminando un cerro; donde sea un buen acompañante será un buzo y qué mejor que sea suave, orgánico, amigable con el medio ambiente y Full Print\r\nEste nuevo diseño llegó para quedarse. Con cordón ajustable, bolsillo con cierre para mayor seguridad y diseño holgado con calce relajado.\r\nEarth is Calling ..\r\nComposición: 70% Bambú, 30% Algodón, 300 grms.",
+            "package": "Champiñón y queso, 12 Unidades, Caja 492 grs.",
+            "img_url": "https://s.superpal.com/product-images/76507.jpg"
+        }, {
+            "id": 67091,
+            "brand": {
+                "id": 961,
+                "name": "Life Gourmet"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 6700.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 6700.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Empanadas Jaiva - Queso",
+            "description": "",
+            "package": "4 unidades medianas.",
+            "img_url": "https://s.superpal.com/product-images/67091.jpg"
+        }, {
+            "id": 76524,
+            "brand": {
+                "id": 1920,
+                "name": "Alimentos Shen"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2870.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2870.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Gyozas de Cerdo",
+            "description": null,
+            "package": "Congelado, Empanaditas orientales, 12 unidades, Bo",
+            "img_url": "https://s.superpal.com/product-images/76524.jpg"
+        }, {
+            "id": 67395,
+            "brand": {
+                "id": 163,
+                "name": "La Crianza"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": false,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3710.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3710.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [{
+                "title": "Out of stock",
+                "text": "This product is unavailable in this store.",
+                "type": "BLOCKED"
+            }],
+            "availability_status": "OUT_OF_STOCK",
+            "nutritional_info": null,
+            "name": "Empanada Jamón- Queso",
+            "description": null,
+            "package": "Congelado, 6 Unidades, 360 grs.",
+            "img_url": "https://s.superpal.com/product-images/67395.jpg"
+        }]
+    }, {
+        "id": "C_140",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Comidas preparadas",
+        "num_products": 78,
+        "top_products": [{
+            "id": 77131,
+            "brand": {
+                "id": 1962,
+                "name": "Krusteaz"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4442.3791821561335,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.442/kg",
+            "regulatory_fees": [],
+            "price": 2390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pancakes",
+            "description": null,
+            "package": "Sabor buttermilk, Envase 538 g.",
+            "img_url": "https://s.superpal.com/product-images/77131.jpg"
+        }, {
+            "id": 72470,
+            "brand": {
+                "id": 1516,
+                "name": "Grocholl"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3590.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 8975.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$8.975/kg",
+            "regulatory_fees": [],
+            "price": 3590.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Papas",
+            "description": null,
+            "package": "Gratinadas. Envase al Vacío 400 g.",
+            "img_url": "https://s.superpal.com/product-images/72470.jpg"
+        }, {
+            "id": 76707,
+            "brand": {
+                "id": 161,
+                "name": "Minuto Verde"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2510.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5020.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.020/kg",
+            "regulatory_fees": [],
+            "price": 2510.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Porotos Granados Mix",
+            "description": null,
+            "package": "Congelado, Bolsa 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/76707.jpg"
+        }, {
+            "id": 76894,
+            "brand": {
+                "id": 1013,
+                "name": "Marvest"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 5390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 8983.333333333334,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$8.983/kg",
+            "regulatory_fees": [],
+            "price": 5390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Lasagna",
+            "description": null,
+            "package": "De Ricotta y Jamón, Envase 600grs.",
+            "img_url": "https://s.superpal.com/product-images/76894.jpg"
+        }, {
+            "id": 76724,
+            "brand": {
+                "id": 159,
+                "name": "Frutos del Maipo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3110.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4146.666666666667,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.147/kg",
+            "regulatory_fees": [],
+            "price": 3110.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Garbanzo",
+            "description": null,
+            "package": "Congelado, Bolsa 750 grs.",
+            "img_url": "https://s.superpal.com/product-images/76724.jpg"
+        }, {
+            "id": 70002,
+            "brand": {
+                "id": 1001,
+                "name": "Jumbo Ready!"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2630.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 17533.333333333336,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$17.533/kg",
+            "regulatory_fees": [],
+            "price": 2630.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Saquitos",
+            "description": null,
+            "package": "De Pescados y Camarones, Envase 150grs.",
+            "img_url": "https://s.superpal.com/product-images/70002.jpg"
+        }, {
+            "id": 77029,
+            "brand": {
+                "id": 1013,
+                "name": "Marvest"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3590.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3590.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Empanadas Cocktail",
+            "description": null,
+            "package": "Choclo queso, 12 unidades, Caja 420 grs.",
+            "img_url": "https://s.superpal.com/product-images/77029.jpg"
+        }, {
+            "id": 76914,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3950.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3950.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Empanadas de cocktail",
+            "description": null,
+            "package": "Espinaca-queso, 12 unidades, Caja 492 grs.",
+            "img_url": "https://s.superpal.com/product-images/76914.jpg"
+        }, {
+            "id": 76821,
+            "brand": {
+                "id": 161,
+                "name": "Minuto Verde"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2630.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2630.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Papas Prefritas",
+            "description": null,
+            "package": "Congelado, Bolsa 1 Kilo",
+            "img_url": "https://s.superpal.com/product-images/76821.jpg"
+        }, {
+            "id": 76806,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2800.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2800.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Papas Prefritas",
+            "description": null,
+            "package": "Congelado, Bolsa 1 kilo",
+            "img_url": "https://s.superpal.com/product-images/76806.jpg"
+        }]
+    }, {
+        "id": "C_145",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Frutas y verduras",
+        "num_products": 75,
+        "top_products": [{
+            "id": 69715,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 2380.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$2.380/kg",
+            "regulatory_fees": [],
+            "price": 1190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Arvejas",
+            "description": null,
+            "package": "Congelado, Bolsa 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/69715.jpg"
+        }, {
+            "id": 69950,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 6456.456456456456,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$6.456/kg",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pulpa de Chirimoya",
+            "description": null,
+            "package": "Light, Congelado, 333 gr.",
+            "img_url": "https://s.superpal.com/product-images/69950.jpg"
+        }, {
+            "id": 69978,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1910.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5735.735735735735,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.736/kg",
+            "regulatory_fees": [],
+            "price": 1910.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pulpa de Fruta",
+            "description": null,
+            "package": "Guayaba, Light, 333 gr.",
+            "img_url": "https://s.superpal.com/product-images/69978.jpg"
+        }, {
+            "id": 76913,
+            "brand": {
+                "id": 47,
+                "name": "Guallarauco"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3350.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 10060.06006006006,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$10.060/kg",
+            "regulatory_fees": [],
+            "price": 3350.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Lúcuma",
+            "description": null,
+            "package": "Congelado, Para repostería, 333 grs.",
+            "img_url": "https://s.superpal.com/product-images/76913.jpg"
+        }, {
+            "id": 76722,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 2380.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$2.380/kg",
+            "regulatory_fees": [],
+            "price": 1190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Choclo",
+            "description": null,
+            "package": "Congelado, Bolsa 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/76722.jpg"
+        }, {
+            "id": 76866,
+            "brand": {
+                "id": 159,
+                "name": "Frutos del Maipo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 590.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 3933.3333333333335,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$3.933/kg",
+            "regulatory_fees": [],
+            "price": 590.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mix de Pimentones",
+            "description": null,
+            "package": "Congelados, bolsa 150 Grs.",
+            "img_url": "https://s.superpal.com/product-images/76866.jpg"
+        }, {
+            "id": 76725,
+            "brand": {
+                "id": 159,
+                "name": "Frutos del Maipo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3350.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4466.666666666667,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.467/kg",
+            "regulatory_fees": [],
+            "price": 3350.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Porotos Tórtola",
+            "description": null,
+            "package": "Congelado, Bolsa 750 grs.",
+            "img_url": "https://s.superpal.com/product-images/76725.jpg"
+        }, {
+            "id": 69951,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1550.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4654.654654654654,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.655/kg",
+            "regulatory_fees": [],
+            "price": 1550.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pulpa de Fruta",
+            "description": null,
+            "package": "Frutilla, Light, Congelado, 333 gr.",
+            "img_url": "https://s.superpal.com/product-images/69951.jpg"
+        }, {
+            "id": 76742,
+            "brand": {
+                "id": 161,
+                "name": "Minuto Verde"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Choclo",
+            "description": null,
+            "package": "Congelado, 6 trozos, Bolsa 780 grs.",
+            "img_url": "https://s.superpal.com/product-images/76742.jpg"
+        }, {
+            "id": 76899,
+            "brand": {
+                "id": 169,
+                "name": "Hortifrut"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2870.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 12755.555555555555,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$12.756/kg",
+            "regulatory_fees": [],
+            "price": 2870.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Frambuesas",
+            "description": null,
+            "package": "Congeladas, Caja de 225 g.",
+            "img_url": "https://s.superpal.com/product-images/76899.jpg"
+        }]
+    }, {
+        "id": "C_143",
+        "img_url": "https://s.superpal.com/department-images/57.jpg",
+        "name": "Helados y hielo",
+        "num_products": 219,
+        "top_products": [{
+            "id": 77176,
+            "brand": {
+                "id": 1951,
+                "name": "Turkey Hill"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4070.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 4070.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Postre Helado",
+            "description": "",
+            "package": "Fudge Ripple, Vainilla chocolate, 1.65 Litros.",
+            "img_url": "https://s.superpal.com/product-images/77176.jpg"
+        }, {
+            "id": 66812,
+            "brand": {
+                "id": 971,
+                "name": "La Cremería Savory"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3350.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 3350.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$3.350/lt",
+            "regulatory_fees": [],
+            "price": 3350.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Helado",
+            "description": null,
+            "package": "Tres leches, Con bombones de leche condensada, 1 L",
+            "img_url": "https://s.superpal.com/product-images/66812.jpg"
+        }, {
+            "id": 66954,
+            "brand": {
+                "id": 987,
+                "name": "Viennetta Bresler"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Postre Helado",
+            "description": null,
+            "package": "Choco nut, 1 litro",
+            "img_url": "https://s.superpal.com/product-images/66954.jpg"
+        }, {
+            "id": 76950,
+            "brand": {
+                "id": 812,
+                "name": "Emporio La Rosa"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 6710.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 8387.5,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$8.388/lt",
+            "regulatory_fees": [],
+            "price": 6710.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Helado",
+            "description": null,
+            "package": "Chocolate avellana, 800 cc.",
+            "img_url": "https://s.superpal.com/product-images/76950.jpg"
+        }, {
+            "id": 76875,
+            "brand": {
+                "id": 806,
+                "name": "Bresler"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2250.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2250.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Postre Helado",
+            "description": null,
+            "package": "Vainilla, Pote 1 litro",
+            "img_url": "https://s.superpal.com/product-images/76875.jpg"
+        }, {
+            "id": 67042,
+            "brand": {
+                "id": 806,
+                "name": "Bresler"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3230.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3230.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Almendrado",
+            "description": null,
+            "package": "Chocolate y vainilla con almendras caramelizadas,",
+            "img_url": "https://s.superpal.com/product-images/67042.jpg"
+        }, {
+            "id": 66794,
+            "brand": {
+                "id": 971,
+                "name": "La Cremería Savory"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3350.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3350.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Helado",
+            "description": null,
+            "package": "Plátano - Manjar, Con salsa y caluga de manjar, 1",
+            "img_url": "https://s.superpal.com/product-images/66794.jpg"
+        }, {
+            "id": 76816,
+            "brand": {
+                "id": 1947,
+                "name": "Häagen-Dazs"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 5990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 12663.847780126851,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$12.664/lt",
+            "regulatory_fees": [],
+            "price": 5990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Helado",
+            "description": null,
+            "package": "Strawberry, Pote 473 cc.",
+            "img_url": "https://s.superpal.com/product-images/76816.jpg"
+        }, {
+            "id": 76720,
+            "brand": {
+                "id": 1932,
+                "name": "Piacceri"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 8990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 9988.888888888889,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$9.989/kg",
+            "regulatory_fees": [],
+            "price": 8990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Cheesecake",
+            "description": null,
+            "package": "Congelado, Relleno con frambuesas naturales, 900 g",
+            "img_url": "https://s.superpal.com/product-images/76720.jpg"
+        }, {
+            "id": 76678,
+            "brand": {
+                "id": 1928,
+                "name": "Biancolatte"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 5990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 7487.5,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.488/lt",
+            "regulatory_fees": [],
+            "price": 5990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Helado",
+            "description": null,
+            "package": "Cookies And Cream, Envase de 800 ml.",
+            "img_url": "https://s.superpal.com/product-images/76678.jpg"
+        }]
+    }, {
+        "id": "C_138",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Mariscos y carnes congeladas",
+        "num_products": 20,
+        "top_products": [{
+            "id": 70573,
+            "brand": {
+                "id": 228,
+                "name": "Simunovic"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 20980.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 20980.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pierna Deshuesada de Cordero",
+            "description": null,
+            "package": "Caja 1.2 kilos",
+            "img_url": "https://s.superpal.com/product-images/70573.jpg"
+        }, {
+            "id": 70540,
+            "brand": {
+                "id": 228,
+                "name": "Simunovic"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 18340.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 36680.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$36.680/kg",
+            "regulatory_fees": [],
+            "price": 18340.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Lomito de Cordero",
+            "description": null,
+            "package": "Caja 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/70540.jpg"
+        }, {
+            "id": 70539,
+            "brand": {
+                "id": 228,
+                "name": "Simunovic"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 8620.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 17240.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$17.240/kg",
+            "regulatory_fees": [],
+            "price": 8620.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Entrecot de Cordero",
+            "description": null,
+            "package": "Caja 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/70539.jpg"
+        }, {
+            "id": 70494,
+            "brand": {
+                "id": 228,
+                "name": "Simunovic"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 16180.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 16180.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Chuletón de Cordero",
+            "description": null,
+            "package": "Caja de 1.2 kilos",
+            "img_url": "https://s.superpal.com/product-images/70494.jpg"
+        }, {
+            "id": 70476,
+            "brand": {
+                "id": 228,
+                "name": "Simunovic"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 23740.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 23740.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Chuleta de Cordero",
+            "description": null,
+            "package": "Caja 1.5 Kilos",
+            "img_url": "https://s.superpal.com/product-images/70476.jpg"
+        }, {
+            "id": 70310,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 7780.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 15560.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$15.560/kg",
+            "regulatory_fees": [],
+            "price": 7780.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Camarones",
+            "description": null,
+            "package": "Cocidos y Pelado Medianos, 500 g.",
+            "img_url": "https://s.superpal.com/product-images/70310.jpg"
+        }, {
+            "id": 70179,
+            "brand": {
+                "id": 162,
+                "name": "ProCarne"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 9560.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$9.560/kg",
+            "regulatory_fees": [],
+            "price": 2390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Carne Molida",
+            "description": null,
+            "package": "Magra/Flow. Congelada. Envase 250 g.",
+            "img_url": "https://s.superpal.com/product-images/70179.jpg"
+        }, {
+            "id": 69748,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 9110.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 9110.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Churrasco de Asiento",
+            "description": null,
+            "package": "24 unidades, Caja 700 grs.",
+            "img_url": "https://s.superpal.com/product-images/69748.jpg"
+        }, {
+            "id": 67196,
+            "brand": {
+                "id": 162,
+                "name": "ProCarne"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 830.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 6640.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$6.640/kg",
+            "regulatory_fees": [],
+            "price": 830.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Bife Alemán",
+            "description": null,
+            "package": "Congelado, Bolsa 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/67196.jpg"
+        }, {
+            "id": 67004,
+            "brand": {
+                "id": 162,
+                "name": "ProCarne"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 830.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 830.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Escalopa Kaiser",
+            "description": null,
+            "package": "Congelado, Premium, 1 Unidad, Bolsa 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/67004.jpg"
+        }]
+    }, {
+        "id": "C_146",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Panes y masas congeladas",
+        "num_products": 3,
+        "top_products": [{
+            "id": 76534,
+            "brand": {
+                "id": 1921,
+                "name": "Home Bakery"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pan Barra Tradicional Pre Horneados",
+            "description": null,
+            "package": "Congelado, 20 unidades, Bolsa 900 grs.",
+            "img_url": "https://s.superpal.com/product-images/76534.jpg"
+        }, {
+            "id": 76516,
+            "brand": {
+                "id": 1917,
+                "name": "Global Market"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1540.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 1540.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Masa para Empanadas",
+            "description": null,
+            "package": "12 Unidades, Al vacío 250 grs.",
+            "img_url": "https://s.superpal.com/product-images/76516.jpg"
+        }, {
+            "id": 76514,
+            "brand": {
+                "id": 1488,
+                "name": "Di Trevi"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1900.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 1900.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Masa Empanadas Fritas",
+            "description": null,
+            "package": "12 Unidades, Bolsa 260 grs.",
+            "img_url": "https://s.superpal.com/product-images/76514.jpg"
+        }]
+    }, {
+        "id": "C_139",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Pizzas congeladas",
+        "num_products": 1,
+        "top_products": [{
+            "id": 76789,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 6470.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 6470.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pizzeta",
+            "description": null,
+            "package": "Queso, Oregano,12 Unidades, 540 g",
+            "img_url": "https://s.superpal.com/product-images/76789.jpg"
+        }]
+    }, {
+        "id": "C_147",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Postres congelados",
+        "num_products": 1,
+        "top_products": [{
+            "id": 76680,
+            "brand": {
+                "id": 997,
+                "name": "Carte D'or  Bresler"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4430.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 4430.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Postre Helado",
+            "description": "",
+            "package": "Suspiro Limeño, 1 Litro",
+            "img_url": "https://s.superpal.com/product-images/76680.jpg"
+        }]
+    }, {
+        "id": "C_148",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Productos congelados",
+        "num_products": 66,
+        "top_products": [{
+            "id": 76651,
+            "brand": {
+                "id": 32,
+                "name": "Sadia"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 7166.666666666667,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.167/kg",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Nuggets de Pollo Crocantes",
+            "description": null,
+            "package": "Congelado, Caja 300 grs.",
+            "img_url": "https://s.superpal.com/product-images/76651.jpg"
+        }, {
+            "id": 69866,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5975.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.975/kg",
+            "regulatory_fees": [],
+            "price": 2390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Nuggets de Pollo",
+            "description": null,
+            "package": "Envase de 400 g",
+            "img_url": "https://s.superpal.com/product-images/69866.jpg"
+        }, {
+            "id": 76773,
+            "brand": {
+                "id": 157,
+                "name": "Mister Crispy"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 950.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 7916.666666666667,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.917/kg",
+            "regulatory_fees": [],
+            "price": 950.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pechuga Apanada de Pollo",
+            "description": null,
+            "package": "120grs.",
+            "img_url": "https://s.superpal.com/product-images/76773.jpg"
+        }, {
+            "id": 76661,
+            "brand": {
+                "id": 32,
+                "name": "Sadia"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 8729.166666666668,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$8.729/kg",
+            "regulatory_fees": [],
+            "price": 4190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Supremitas de Pollo",
+            "description": null,
+            "package": "Congelado, Rebozadas, Caja 480 grs.",
+            "img_url": "https://s.superpal.com/product-images/76661.jpg"
+        }, {
+            "id": 69838,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1790.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5114.285714285715,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.114/kg",
+            "regulatory_fees": [],
+            "price": 1790.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Milanesa",
+            "description": null,
+            "package": "Tomate-Queso, 350 grs.",
+            "img_url": "https://s.superpal.com/product-images/69838.jpg"
+        }, {
+            "id": 69818,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1790.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5114.285714285715,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.114/kg",
+            "regulatory_fees": [],
+            "price": 1790.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Milanesa",
+            "description": null,
+            "package": "Jamón- Queso, 350 grs.",
+            "img_url": "https://s.superpal.com/product-images/69818.jpg"
+        }, {
+            "id": 66858,
+            "brand": {
+                "id": 52,
+                "name": "Mister Burger"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 11900.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$11.900/kg",
+            "regulatory_fees": [],
+            "price": 1190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Hamburguesa de Vacuno",
+            "description": null,
+            "package": "Extra large, 100 gr.",
+            "img_url": "https://s.superpal.com/product-images/66858.jpg"
+        }, {
+            "id": 76713,
+            "brand": {
+                "id": 1933,
+                "name": "Mr. Beef"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 7475.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.475/kg",
+            "regulatory_fees": [],
+            "price": 2990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Albondigas de Vacuno",
+            "description": null,
+            "package": "400grs.",
+            "img_url": "https://s.superpal.com/product-images/76713.jpg"
+        }, {
+            "id": 76686,
+            "brand": {
+                "id": 206,
+                "name": "Llanquihue"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 980.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 7840.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.840/kg",
+            "regulatory_fees": [],
+            "price": 980.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Hamburguesa de Vacuno",
+            "description": null,
+            "package": "Congelado, Parrillera Premium, Bolsa 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/76686.jpg"
+        }, {
+            "id": 76620,
+            "brand": {
+                "id": 165,
+                "name": "Super Pollo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2140.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5350.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.350/kg",
+            "regulatory_fees": [],
+            "price": 2140.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Nugget",
+            "description": null,
+            "package": "Jamón, Bolsa 400 grs.",
+            "img_url": "https://s.superpal.com/product-images/76620.jpg"
+        }]
+    }]
+}

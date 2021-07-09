@@ -1,0 +1,2163 @@
+[{
+    "id": "featured",
+    "name": "Featured",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "29",
+            "name": "Jumbo",
+            "excerpt": "Cadena de supermercados chilena desde 1976. Ofrece alimentos, abarrotes y artículos para el hogar. Pertenece al consorcio Cencosud®.",
+            "store_id": "4",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Jumbo and are periodically updated. There may be some differences depending on the product format and the store location. We do not feature all store promotions, as we have hundreds of exclusive Cornershop promotions.",
+                "disclaimer": "The prices are the same as you would find at Jumbo and are periodically updated. There may be some differences depending on the product format and the store location. We do not feature all store promotions, as we have hundreds of exclusive Cornershop promotions."
+            },
+            "img_url": "https://s.superpal.com/store-images-white/4.png",
+            "brand_color": "279f5b",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "414",
+            "name": "Farmacias Ahumada",
+            "excerpt": "Cadena de Farmacias perteneciente a Walgreens Boots Alliance. Ofrece medicamentos, artículos de belleza, higiene y cuidado personal.",
+            "store_id": "153",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-images-white/50.png",
+            "brand_color": "c42826",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "425",
+            "name": "Riesco Repostería",
+            "excerpt": "Las tradicionales Tortas Riesco, con mas de 35 años de experiencia, llevando nuestras tortas, postres y cocktelería dulce y salada a tu mesa",
+            "store_id": "165",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/riesco-light.png",
+            "brand_color": "f78601",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/riesco-reposteria-1x.jpg?versionId=KLLcpXjEHA.Qg_fOQQSe4GTerCPvnbpK",
+                    "2x": "https://s.superpal.com/store-poster/riesco-reposteria-2x.jpg?versionId=etRWvC.87FihWwvUfa2kgZihpD0NF_OF",
+                    "3x": "https://s.superpal.com/store-poster/riesco-reposteria-2x.jpg?versionId=etRWvC.87FihWwvUfa2kgZihpD0NF_OF"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "340",
+            "name": "tienda de lucho 1 ",
+            "excerpt": "knam,asmsalmds",
+            "store_id": "71",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/6027e580-dd8.png",
+            "brand_color": "a83131",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "768",
+            "name": "La tienda de Saher",
+            "excerpt": "Lorem Ipsum is simply dummy tex",
+            "store_id": "398",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at La tienda de Saher and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at La tienda de Saher and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/a4467f08-65c.png?versionId=0TZRhiU2Y7F2r3.rF_SRUye7a0RB9vl7",
+            "brand_color": "00894f",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-1x.jpeg?versionId=XPuZ2C5JL5OIUwlYqjD405GTi0hqxTNA",
+                    "2x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-2x.jpeg?versionId=RE.WkeifgBmWiMykwQCknDyvN8SRD10V",
+                    "3x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-3x.jpeg?versionId=FnK6l68sue5Hv_4gn9DPFYERQtDCoMlC"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "713",
+            "name": "Test",
+            "excerpt": "Chocolates y dulces",
+            "store_id": "394",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Test and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Test and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/48bbea0a-d79.png?versionId=T5HaGUArWpYH4Fq8AsP1BVuwKjyhOJyw",
+            "brand_color": "682a2a",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/394-test-1x.jpeg?versionId=J6g6..FW..kwsa2lnDs6zcW21nNGkWc9",
+                    "2x": "https://s.superpal.com/store-poster/394-test-2x.jpeg?versionId=SpZMGj6aKVyf2J5TmVBVcOEJ1fWfmu9y",
+                    "3x": "https://s.superpal.com/store-poster/394-test-3x.jpeg?versionId=k3yA53MGv9SGzdm.qbYgScEZ7.J9cXI2"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "679",
+            "name": "tienda prueba dos",
+            "excerpt": "cualquier cosa para ser aprobad",
+            "store_id": "366",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at tienda prueba dos and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at tienda prueba dos and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/31b4275f-29b.png?versionId=PL98.hbHyTJRYs7LmNp4_ud5I2aL_L6Z",
+            "brand_color": "b36d6d",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/366-tienda-prueba-dos-1x.png?versionId=9TeLgyoM28LDQj0hZwkkAC0TyabmhziJ",
+                    "2x": "https://s.superpal.com/store-poster/366-tienda-prueba-dos-2x.png?versionId=CJM6l30rsnSCh_HmGiFblXOkdsNYVXJf",
+                    "3x": "https://s.superpal.com/store-poster/366-tienda-prueba-dos-3x.png?versionId=6C8xGLWXe.SaRmg5gUXldjej81c0vflu"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "680",
+            "name": "segundo intento",
+            "excerpt": "ricos chocolates hechos con las",
+            "store_id": "367",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at segundo intento and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at segundo intento and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/b250e43b-b03.png?versionId=wyPaXMW.sXHhcu.jsfNVyztV9CrvnPwi",
+            "brand_color": "b05353",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/367-segundo-intento-1x.png?versionId=vA45oC1Qrr9bgb5pULaeK4GxEcqQhe9q",
+                    "2x": "https://s.superpal.com/store-poster/367-segundo-intento-2x.png?versionId=TSFyreuV3sNZGcI5NQUjuWpLfpryDJpV",
+                    "3x": "https://s.superpal.com/store-poster/367-segundo-intento-3x.png?versionId=eeix9cXHg9WKTkybiWggyIMFUM.sVh0M"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1022",
+            "name": "Fabita Store",
+            "excerpt": "La tiendita de fabi",
+            "store_id": "618",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/1aea1fae-8c0.png?versionId=IEJbv4K1qeFmlf2SmqYExqSnN5vJGCsV",
+            "brand_color": "621cea",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/618-fabita-store-1x.jpeg?versionId=cBSvCVRW_twOmqYJ68m7Rl_WDZ59IWb8",
+                    "2x": "https://s.superpal.com/store-poster/618-fabita-store-2x.jpeg?versionId=SWRF15sGGZnjqqC0QGSdRC.oMH4NIAOQ",
+                    "3x": "https://s.superpal.com/store-poster/618-fabita-store-3x.jpeg?versionId=LeS22mgp1O2cOHnVZt8XgDA8MgepTZXm"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "949",
+            "name": "Fabi Store",
+            "excerpt": "Venta de Pasteles",
+            "store_id": "550",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/83a15d30-4de.png?versionId=Sfii.5o1Tc7P4uVjBt7VatYKPDUZmCS1",
+            "brand_color": "F7BFBE",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-1x.jpeg?versionId=MSTWWeKGSio8qu0NtdZN.De6ri62ELSb",
+                    "2x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-2x.jpeg?versionId=sy5xBHm1gFsX5DIpBG16WePPCwHDihFx",
+                    "3x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-3x.jpeg?versionId=mXlitflrF1vgY4MYXDJ_PSvCcC7u8jJe"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "943",
+            "name": "Sabor",
+            "excerpt": "Tienda de variedades de pan",
+            "store_id": "545",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Sabor and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Sabor and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/d0afc5b9-9f9.png?versionId=7bJuDxTrkfP22x5QFF0Xv.qVcurhfkBB",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/545-sabor-1x.jpeg?versionId=PZPaCbq.rGkz.PqTDcwDkgUvAX8wMAyk",
+                    "2x": "https://s.superpal.com/store-poster/545-sabor-2x.jpeg?versionId=JBeBsLhRyNwW5PM20vAmuoW5iwBNk.vy",
+                    "3x": "https://s.superpal.com/store-poster/545-sabor-3x.jpeg?versionId=1Oka1hTGbcSa04Ie9N1aAE4QyE61TY4H"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "936",
+            "name": "Mi super Aldo",
+            "excerpt": "La mejor tienda",
+            "store_id": "543",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Mi super Aldo and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Mi super Aldo and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/092be63e-289.png?versionId=Nqtss8HZ0.G_u8S.NnhSntFp4un2Vk2c",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/543-mi-super-aldo-1x.jpeg?versionId=NUK6oqTfFgCYiFDps5ineFaU3sQkWz2G",
+                    "2x": "https://s.superpal.com/store-poster/543-mi-super-aldo-2x.jpeg?versionId=3abdZIMVPDFYBSLIKFOXnNw.sb5dXotJ",
+                    "3x": "https://s.superpal.com/store-poster/543-mi-super-aldo-3x.jpeg?versionId=Pb.3bLy3FPhzK_YHsZTBWAS6_47m_KdL"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "classic",
+        "attributes": {
+            "preferred_orientation": "horizontal"
+        }
+    }
+}, {
+    "id": "express_stores",
+    "name": "Express",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "414",
+            "name": "Farmacias Ahumada",
+            "excerpt": "Cadena de Farmacias perteneciente a Walgreens Boots Alliance. Ofrece medicamentos, artículos de belleza, higiene y cuidado personal.",
+            "store_id": "153",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-images-white/50.png",
+            "brand_color": "c42826",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "768",
+            "name": "La tienda de Saher",
+            "excerpt": "Lorem Ipsum is simply dummy tex",
+            "store_id": "398",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at La tienda de Saher and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at La tienda de Saher and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/a4467f08-65c.png?versionId=0TZRhiU2Y7F2r3.rF_SRUye7a0RB9vl7",
+            "brand_color": "00894f",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-1x.jpeg?versionId=XPuZ2C5JL5OIUwlYqjD405GTi0hqxTNA",
+                    "2x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-2x.jpeg?versionId=RE.WkeifgBmWiMykwQCknDyvN8SRD10V",
+                    "3x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-3x.jpeg?versionId=FnK6l68sue5Hv_4gn9DPFYERQtDCoMlC"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1022",
+            "name": "Fabita Store",
+            "excerpt": "La tiendita de fabi",
+            "store_id": "618",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/1aea1fae-8c0.png?versionId=IEJbv4K1qeFmlf2SmqYExqSnN5vJGCsV",
+            "brand_color": "621cea",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/618-fabita-store-1x.jpeg?versionId=cBSvCVRW_twOmqYJ68m7Rl_WDZ59IWb8",
+                    "2x": "https://s.superpal.com/store-poster/618-fabita-store-2x.jpeg?versionId=SWRF15sGGZnjqqC0QGSdRC.oMH4NIAOQ",
+                    "3x": "https://s.superpal.com/store-poster/618-fabita-store-3x.jpeg?versionId=LeS22mgp1O2cOHnVZt8XgDA8MgepTZXm"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "949",
+            "name": "Fabi Store",
+            "excerpt": "Venta de Pasteles",
+            "store_id": "550",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/83a15d30-4de.png?versionId=Sfii.5o1Tc7P4uVjBt7VatYKPDUZmCS1",
+            "brand_color": "F7BFBE",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-1x.jpeg?versionId=MSTWWeKGSio8qu0NtdZN.De6ri62ELSb",
+                    "2x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-2x.jpeg?versionId=sy5xBHm1gFsX5DIpBG16WePPCwHDihFx",
+                    "3x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-3x.jpeg?versionId=mXlitflrF1vgY4MYXDJ_PSvCcC7u8jJe"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "943",
+            "name": "Sabor",
+            "excerpt": "Tienda de variedades de pan",
+            "store_id": "545",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Sabor and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Sabor and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/d0afc5b9-9f9.png?versionId=7bJuDxTrkfP22x5QFF0Xv.qVcurhfkBB",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/545-sabor-1x.jpeg?versionId=PZPaCbq.rGkz.PqTDcwDkgUvAX8wMAyk",
+                    "2x": "https://s.superpal.com/store-poster/545-sabor-2x.jpeg?versionId=JBeBsLhRyNwW5PM20vAmuoW5iwBNk.vy",
+                    "3x": "https://s.superpal.com/store-poster/545-sabor-3x.jpeg?versionId=1Oka1hTGbcSa04Ie9N1aAE4QyE61TY4H"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "936",
+            "name": "Mi super Aldo",
+            "excerpt": "La mejor tienda",
+            "store_id": "543",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Mi super Aldo and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Mi super Aldo and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/092be63e-289.png?versionId=Nqtss8HZ0.G_u8S.NnhSntFp4un2Vk2c",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/543-mi-super-aldo-1x.jpeg?versionId=NUK6oqTfFgCYiFDps5ineFaU3sQkWz2G",
+                    "2x": "https://s.superpal.com/store-poster/543-mi-super-aldo-2x.jpeg?versionId=3abdZIMVPDFYBSLIKFOXnNw.sb5dXotJ",
+                    "3x": "https://s.superpal.com/store-poster/543-mi-super-aldo-3x.jpeg?versionId=Pb.3bLy3FPhzK_YHsZTBWAS6_47m_KdL"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "new_stores",
+    "name": "New stores",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1034",
+            "name": "Only add users",
+            "excerpt": "Store not published",
+            "store_id": "629",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Only add users and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Only add users and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/594106a9-e24.png?versionId=IWZuaXu02qhNUcl.Kx4xPv0PYMz3tq8l",
+            "brand_color": "413232",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/629-only-add-users-1x.jpeg?versionId=EhmIFa_iY3pAtcnhVR0ipyIWaQmAjJ6.",
+                    "2x": "https://s.superpal.com/store-poster/629-only-add-users-2x.jpeg?versionId=9myNUFmHMHEVwr9GzTmiYuzZxwWohR2U",
+                    "3x": "https://s.superpal.com/store-poster/629-only-add-users-3x.jpeg?versionId=lZsEnV1c498zd2aEZhgJq2XX9jcezbi6"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1040",
+            "name": "CLShop",
+            "excerpt": "Shop dedicated to sell meals 24",
+            "store_id": "635",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at CLShop and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at CLShop and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/49cefed1-83c.png?versionId=QAckwcTvt5KukWulFyBYLzMf5MrfZp6a",
+            "brand_color": "2aaa2c",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/635-clshop-1x.jpeg?versionId=azWyCNpuTIG0x1hUh_N4_ZVu1t8BnTBp",
+                    "2x": "https://s.superpal.com/store-poster/635-clshop-2x.jpeg?versionId=dCEqPO..Yl.lizwA9VmzDcd2SFYpUdHj",
+                    "3x": "https://s.superpal.com/store-poster/635-clshop-3x.jpeg?versionId=3LcK_Bdw6UxtWJd0gxo4x3kPFcpwjbxE"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1063",
+            "name": "Only products",
+            "excerpt": "Store for handled products for",
+            "store_id": "626",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Only products and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Only products and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/3b6febeb-074.png?versionId=aaSUMOUswsZEaY8VOdsEeexfwvpIsFoz",
+            "brand_color": "514545",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/626-only-products-1x.jpeg?versionId=iw9SjmYbQw7KECJBhsgT0rA_J9RCGRUE",
+                    "2x": "https://s.superpal.com/store-poster/626-only-products-2x.jpeg?versionId=JSX0aavwgidHq7UXHG9uJhsZunvaymVV",
+                    "3x": "https://s.superpal.com/store-poster/626-only-products-3x.jpeg?versionId=ULBXLwadD57_pChNPFk1FQOtcjSgDT9Z"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1032",
+            "name": "Only users",
+            "excerpt": "Store for handled users for SDE",
+            "store_id": "627",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Only users and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Only users and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/c647387d-eab.png?versionId=he5c7JDqcpGkVyHOk5C3gSY_MLfeVQdI",
+            "brand_color": "574141",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/627-only-users-1x.jpeg?versionId=k.CPUm1cJyS9yZw6j5QGwY_fW60Qqsoa",
+                    "2x": "https://s.superpal.com/store-poster/627-only-users-2x.jpeg?versionId=lE0.bT5F5h4D.5HqARbmQOFBGmM_O9YA",
+                    "3x": "https://s.superpal.com/store-poster/627-only-users-3x.jpeg?versionId=ju4LeYR9T0aj3LDof6e.wPy0pJFU82t8"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1023",
+            "name": "Automato Store 15 SDET",
+            "excerpt": "Store automato 15 SDET",
+            "store_id": "614",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Automato Store 15 SDET and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Automato Store 15 SDET and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/6a5918e4-efe.png?versionId=V.oW28V4TJpNoMhhfATLg5IG75nLekSk",
+            "brand_color": "593232",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/614-automato-store-15-sdet-1x.jpeg?versionId=grWABF6C40pOeg_5jtRuRer0LMQJNJwK",
+                    "2x": "https://s.superpal.com/store-poster/614-automato-store-15-sdet-2x.jpeg?versionId=la5OcvXpkQcRzX7VQUaMoJXGg0Zyq6J7",
+                    "3x": "https://s.superpal.com/store-poster/614-automato-store-15-sdet-3x.jpeg?versionId=wsIhTHf6u_GBlg_NO9.Ajzmw.BtTo8U5"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1022",
+            "name": "Fabita Store",
+            "excerpt": "La tiendita de fabi",
+            "store_id": "618",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/1aea1fae-8c0.png?versionId=IEJbv4K1qeFmlf2SmqYExqSnN5vJGCsV",
+            "brand_color": "621cea",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/618-fabita-store-1x.jpeg?versionId=cBSvCVRW_twOmqYJ68m7Rl_WDZ59IWb8",
+                    "2x": "https://s.superpal.com/store-poster/618-fabita-store-2x.jpeg?versionId=SWRF15sGGZnjqqC0QGSdRC.oMH4NIAOQ",
+                    "3x": "https://s.superpal.com/store-poster/618-fabita-store-3x.jpeg?versionId=LeS22mgp1O2cOHnVZt8XgDA8MgepTZXm"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1002",
+            "name": "Automato Store 6 SDET",
+            "excerpt": "Store automato 6 SDET",
+            "store_id": "597",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Automato Store 6 SDET and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Automato Store 6 SDET and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/5fc47fb3-1e3.png?versionId=JJhxbLcAEo0gyCS6tKMZJaoys1bo7j9k",
+            "brand_color": "7a5a5a",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/597-automato-store-6-sdet-1x.jpeg?versionId=JbOiOdWSm4toV1J5EYgwrwqOjTj1v0cF",
+                    "2x": "https://s.superpal.com/store-poster/597-automato-store-6-sdet-2x.jpeg?versionId=S1Rx4MRzjBY5SYz4tMFXmFse0dU.Zydy",
+                    "3x": "https://s.superpal.com/store-poster/597-automato-store-6-sdet-3x.jpeg?versionId=l3q5Z9_v6_buFh3mNQ4b_Oi5bGrMyeVY"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "991",
+            "name": "Automato Merchant 9",
+            "excerpt": "store automato merchant 9",
+            "store_id": "587",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Automato Merchant 9 and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Automato Merchant 9 and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/39094769-361.png?versionId=cHRWlUzTUgg9Ro.yFi.Au_jXXu4dT2s9",
+            "brand_color": "433939",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/587-automato-merchant-9-1x.jpeg?versionId=SWLmvWCzzfu4yypjTIG.uLFiQCjSsM3Y",
+                    "2x": "https://s.superpal.com/store-poster/587-automato-merchant-9-2x.jpeg?versionId=5cCayk2k_Sey95XGMYPuJJJW0IvYqCWC",
+                    "3x": "https://s.superpal.com/store-poster/587-automato-merchant-9-3x.jpeg?versionId=73JQXEC0e3M.sAHvBgKA57reldMJeJAi"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "949",
+            "name": "Fabi Store",
+            "excerpt": "Venta de Pasteles",
+            "store_id": "550",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/83a15d30-4de.png?versionId=Sfii.5o1Tc7P4uVjBt7VatYKPDUZmCS1",
+            "brand_color": "F7BFBE",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-1x.jpeg?versionId=MSTWWeKGSio8qu0NtdZN.De6ri62ELSb",
+                    "2x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-2x.jpeg?versionId=sy5xBHm1gFsX5DIpBG16WePPCwHDihFx",
+                    "3x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-3x.jpeg?versionId=mXlitflrF1vgY4MYXDJ_PSvCcC7u8jJe"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "470",
+            "name": "La Edilssonería",
+            "excerpt": "Nos comemos tu comida 24x7",
+            "store_id": "198",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-logo/2066add0-e11.png?versionId=HGfmbun_6qq4BSkwx1uPkoZeJ536tX.0",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/198-la-edilssoneria-1x.jpeg?versionId=JktMbYbR0vVF2apY7E482qySA0ZZ0VGx",
+                    "2x": "https://s.superpal.com/store-poster/198-la-edilssoneria-2x.jpeg?versionId=U_.rFJuTfjuDLI8bnFc6WPKg.vk80T1E",
+                    "3x": "https://s.superpal.com/store-poster/198-la-edilssoneria-3x.jpeg?versionId=6r.zGFkT1a9uVE7gA_ONTY0W9wbUxi28"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "posters",
+        "attributes": {}
+    }
+}, {
+    "id": "hard-Día del padre",
+    "name": "Father's day",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "340",
+            "name": "tienda de lucho 1 ",
+            "excerpt": "knam,asmsalmds",
+            "store_id": "71",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/6027e580-dd8.png",
+            "brand_color": "a83131",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "339",
+            "name": "Un negocio A",
+            "excerpt": "Una cosa",
+            "store_id": "70",
+            "pricing_notes": {
+                "title": "50% Service Fee",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/4c53e108-44a.png",
+            "brand_color": "e34040",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "hard-Panadería y pastelería",
+    "name": "Panadería y pastelería",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "425",
+            "name": "Riesco Repostería",
+            "excerpt": "Las tradicionales Tortas Riesco, con mas de 35 años de experiencia, llevando nuestras tortas, postres y cocktelería dulce y salada a tu mesa",
+            "store_id": "165",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/riesco-light.png",
+            "brand_color": "f78601",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/riesco-reposteria-1x.jpg?versionId=KLLcpXjEHA.Qg_fOQQSe4GTerCPvnbpK",
+                    "2x": "https://s.superpal.com/store-poster/riesco-reposteria-2x.jpg?versionId=etRWvC.87FihWwvUfa2kgZihpD0NF_OF",
+                    "3x": "https://s.superpal.com/store-poster/riesco-reposteria-2x.jpg?versionId=etRWvC.87FihWwvUfa2kgZihpD0NF_OF"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "421",
+            "name": "Tomás Moro",
+            "excerpt": "Tradicional y vanguardista pastelería, panadería y fábrica de empanadas",
+            "store_id": "161",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/tomasmoro-light.png",
+            "brand_color": "f50606",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "943",
+            "name": "Sabor",
+            "excerpt": "Tienda de variedades de pan",
+            "store_id": "545",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Sabor and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Sabor and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/d0afc5b9-9f9.png?versionId=7bJuDxTrkfP22x5QFF0Xv.qVcurhfkBB",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/545-sabor-1x.jpeg?versionId=PZPaCbq.rGkz.PqTDcwDkgUvAX8wMAyk",
+                    "2x": "https://s.superpal.com/store-poster/545-sabor-2x.jpeg?versionId=JBeBsLhRyNwW5PM20vAmuoW5iwBNk.vy",
+                    "3x": "https://s.superpal.com/store-poster/545-sabor-3x.jpeg?versionId=1Oka1hTGbcSa04Ie9N1aAE4QyE61TY4H"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "424",
+            "name": "Ña Matea",
+            "excerpt": "Fábrica de empanadas desde 1974.  Hoy produce empanadas frescas de 20 sabores y productos congelados de cóctel, quiches y lasañas.",
+            "store_id": "164",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/namatea-light-2.png",
+            "brand_color": "fe7012",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "949",
+            "name": "Fabi Store",
+            "excerpt": "Venta de Pasteles",
+            "store_id": "550",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabi Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/83a15d30-4de.png?versionId=Sfii.5o1Tc7P4uVjBt7VatYKPDUZmCS1",
+            "brand_color": "F7BFBE",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-1x.jpeg?versionId=MSTWWeKGSio8qu0NtdZN.De6ri62ELSb",
+                    "2x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-2x.jpeg?versionId=sy5xBHm1gFsX5DIpBG16WePPCwHDihFx",
+                    "3x": "https://s.superpal.com/store-poster/550-la-tiendita-de-fabi-3x.jpeg?versionId=mXlitflrF1vgY4MYXDJ_PSvCcC7u8jJe"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "351",
+            "name": "Hirondelle Pastelería Francesa",
+            "excerpt": "Pastelería y dulcería francesa en Santiago especializada en tortas, tartas, pasteles, macarons y galletas con los mejores ingredientes.",
+            "store_id": "80",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/hirondelle-light.png",
+            "brand_color": "FFAFBF",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "941",
+            "name": "Nombre de tu tienda",
+            "excerpt": "Pastelería hecha a mano",
+            "store_id": "400",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Nombre de tu tienda and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Nombre de tu tienda and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/ca89f187-400.png?versionId=iN8tDiJNRyyp1mpQuAIE5Qfdy2JvP9tB",
+            "brand_color": "89c0dd",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/400-nombre-de-tu-tienda-1x.jpeg?versionId=yJx_1Rs9x4rYeo1CUpxGro7F0HQAaRhW",
+                    "2x": "https://s.superpal.com/store-poster/400-nombre-de-tu-tienda-2x.jpeg?versionId=IPPntkGu3.B7hp8o59pOhh8pXN7uz20.",
+                    "3x": "https://s.superpal.com/store-poster/400-nombre-de-tu-tienda-3x.jpeg?versionId=ZqomnkGSHixMyuwdEbhrEFV7JfrU1sJc"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "medium"
+        }
+    }
+}, {
+    "id": "hard-Chocolates y dulces",
+    "name": "Chocolates y dulces",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "529",
+            "name": "Varsoviennas",
+            "excerpt": "Tradición, Chocolate, 1954",
+            "store_id": "34",
+            "pricing_notes": {
+                "title": "Precios incluyen un cargo por servicio",
+                "description": "En Varsovienne los precios tienen incorporado un cargo por servicio promedio de 16-18% del valor de tu compra.",
+                "disclaimer": "En Varsovienne los precios tienen incorporado un cargo por servicio promedio de 16-18% del valor de tu compra."
+            },
+            "img_url": "https://s.superpal.com/store-images-white/34.png",
+            "brand_color": "753434",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/34-varsoviennas-1x.jpeg?versionId=logWPJzV4dGlenlv7F2zgl6UpZpBkgxk",
+                    "2x": "https://s.superpal.com/store-poster/34-varsoviennas-2x.jpeg?versionId=KIr4QibD.vvWCOhQ9NpVrQCLV7VLmF06",
+                    "3x": "https://s.superpal.com/store-poster/34-varsoviennas-3x.jpeg?versionId=cuup3ytoBpjp_dMgCW06SoRGg4wA4fvr"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "807",
+            "name": "datasso",
+            "excerpt": "Lorem ipsum dolor sit amet, con",
+            "store_id": "455",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at datasso and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at datasso and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/4b16067d-eec.png?versionId=t0b0VfeE8cCM5VubZBlWf6CffCh.eLUk",
+            "brand_color": "ffffff",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/455-datasso-1x.jpeg?versionId=UI9Zf3FaY7CNUuag5qN9_QzUKfxYhdvY",
+                    "2x": "https://s.superpal.com/store-poster/455-datasso-2x.jpeg?versionId=iNgx.DKAbNxhwe0B_YG7X.TiREDyQT8n",
+                    "3x": "https://s.superpal.com/store-poster/455-datasso-3x.jpeg?versionId=QqXKXK6C69R4hnu6iq7eDSFX7DupQwbJ"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "713",
+            "name": "Test",
+            "excerpt": "Chocolates y dulces",
+            "store_id": "394",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Test and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Test and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/48bbea0a-d79.png?versionId=T5HaGUArWpYH4Fq8AsP1BVuwKjyhOJyw",
+            "brand_color": "682a2a",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/394-test-1x.jpeg?versionId=J6g6..FW..kwsa2lnDs6zcW21nNGkWc9",
+                    "2x": "https://s.superpal.com/store-poster/394-test-2x.jpeg?versionId=SpZMGj6aKVyf2J5TmVBVcOEJ1fWfmu9y",
+                    "3x": "https://s.superpal.com/store-poster/394-test-3x.jpeg?versionId=k3yA53MGv9SGzdm.qbYgScEZ7.J9cXI2"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "679",
+            "name": "tienda prueba dos",
+            "excerpt": "cualquier cosa para ser aprobad",
+            "store_id": "366",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at tienda prueba dos and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at tienda prueba dos and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/31b4275f-29b.png?versionId=PL98.hbHyTJRYs7LmNp4_ud5I2aL_L6Z",
+            "brand_color": "b36d6d",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/366-tienda-prueba-dos-1x.png?versionId=9TeLgyoM28LDQj0hZwkkAC0TyabmhziJ",
+                    "2x": "https://s.superpal.com/store-poster/366-tienda-prueba-dos-2x.png?versionId=CJM6l30rsnSCh_HmGiFblXOkdsNYVXJf",
+                    "3x": "https://s.superpal.com/store-poster/366-tienda-prueba-dos-3x.png?versionId=6C8xGLWXe.SaRmg5gUXldjej81c0vflu"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "680",
+            "name": "segundo intento",
+            "excerpt": "ricos chocolates hechos con las",
+            "store_id": "367",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at segundo intento and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at segundo intento and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/b250e43b-b03.png?versionId=wyPaXMW.sXHhcu.jsfNVyztV9CrvnPwi",
+            "brand_color": "b05353",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/367-segundo-intento-1x.png?versionId=vA45oC1Qrr9bgb5pULaeK4GxEcqQhe9q",
+                    "2x": "https://s.superpal.com/store-poster/367-segundo-intento-2x.png?versionId=TSFyreuV3sNZGcI5NQUjuWpLfpryDJpV",
+                    "3x": "https://s.superpal.com/store-poster/367-segundo-intento-3x.png?versionId=eeix9cXHg9WKTkybiWggyIMFUM.sVh0M"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "616",
+            "name": "Unimarc",
+            "excerpt": "El supermercado de Chile",
+            "store_id": "307",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Unimarc and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Unimarc and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/logo.png?versionId=h8HYXyTF4b.Z7JEoUhilTZ1pj8WA8CY3",
+            "brand_color": "f50000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/307-test-shapa-1x.jpg?versionId=6h1yQUtU3XSh2t4kUB7pYHTmctSE9BRr",
+                    "2x": "https://s.superpal.com/store-poster/307-test-shapa-2x.jpg?versionId=2P_zeZK.h.ns_CEhCc1UGEitrLcshHaf",
+                    "3x": "https://s.superpal.com/store-poster/307-test-shapa-3x.jpg?versionId=6UWTOKnAk3BkUnourIOSKS1I0pJfESbZ"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "606",
+            "name": "test shapa 2",
+            "excerpt": "<script>alert(1)</script>",
+            "store_id": "311",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at test shapa 2 and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at test shapa 2 and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/6589cd4e-ec0.png?versionId=0aBDtx08S0BCzEH5_qbza_1PMo_RuqqB",
+            "brand_color": "936262",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/311-test-shapa-2-1x.jpg?versionId=ZJH8YQUSwPcIInNtBpGXDq65zUy0nBSQ",
+                    "2x": "https://s.superpal.com/store-poster/311-test-shapa-2-2x.jpg?versionId=Us1z_t_m.b3pvjKflgM.AeI3nR_5Qr5I",
+                    "3x": "https://s.superpal.com/store-poster/311-test-shapa-2-3x.jpg?versionId=h6ITM9oTK8WuUqMzAac5XTk.Q26hekTK"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "830",
+            "name": "AndreaGonzalez",
+            "excerpt": "Tienda de chocolates",
+            "store_id": "473",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at AndreaGonzalez and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at AndreaGonzalez and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/44dbf9a9-79b.png?versionId=KZPNezkoNvShdeJymLeFHJyRjjrUcasr",
+            "brand_color": "ed4f4f",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/473-andreagonzalez-1x.jpeg?versionId=_sDbgwgAonZK9EY7cGyjf_AZp_ctxzhm",
+                    "2x": "https://s.superpal.com/store-poster/473-andreagonzalez-2x.jpeg?versionId=5nPJGJs61jWCnYguImBDRM5_zb3niwWZ",
+                    "3x": "https://s.superpal.com/store-poster/473-andreagonzalez-3x.jpeg?versionId=jdqsFcrBQ0gVZPP1aHQwBzNe3s2OP.75"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "561",
+            "name": "Pruebas 2",
+            "excerpt": "Bienvenidos a pruebas 2",
+            "store_id": "282",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Pruebas 2 and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Pruebas 2 and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/8ab6dcb7-711.png?versionId=OoiWx4RaBFxSLc_ZCQpdk0Ocz96_MSgg",
+            "brand_color": "2dc850",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/282-pruebas-2-1x.jpg?versionId=1tgzrinZPG3WjX8FlfbiAV4ZvgboKewK",
+                    "2x": "https://s.superpal.com/store-poster/282-pruebas-2-2x.jpg?versionId=HYLUhilc5ukTtzgWV4e_uuUiN9nsBX2T",
+                    "3x": "https://s.superpal.com/store-poster/282-pruebas-2-3x.jpg?versionId=L60_9nmKRxa6mKHCUFMACO4kFMNyYqbU"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "610",
+            "name": "Test1US",
+            "excerpt": "ok",
+            "store_id": "315",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Test1US and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Test1US and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/471118b0-838.png?versionId=AM5oMwNM5XxdkCKkNDyTjgSCZAPY52YO",
+            "brand_color": "bd1f1f",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/315-test1us-1x.jpg?versionId=WaBmsoh1X8dz4nObX1lJGuLuiLuxIZKN",
+                    "2x": "https://s.superpal.com/store-poster/315-test1us-2x.jpg?versionId=ET7d7K_OEPEc6r8.qdD5Cn5phSw6cX7A",
+                    "3x": "https://s.superpal.com/store-poster/315-test1us-3x.jpg?versionId=C3IN8BbLfHYvXjzTzObE8ruNRq0x5_MW"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "416",
+            "name": "Dulcería El Ingenio",
+            "excerpt": "Pastelería familiar con más de 40 años en el mercado, nace en el corazón del Cajon del Maipo en un ambiente puro.",
+            "store_id": "156",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/1ddd042d-e3e.png",
+            "brand_color": "121010",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "large"
+        }
+    }
+}, {
+    "id": "hard-Mascotas",
+    "name": "Mascotas",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "629",
+            "name": "Lola y Bambi market",
+            "excerpt": "regaloneo para los peludos",
+            "store_id": "320",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Lola y Bambi market and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Lola y Bambi market and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/d381f7c6-fc0.png?versionId=t7BPAY0kauHuAnhXMRFY0dGOFVZG8g7O",
+            "brand_color": "ed0d0d",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/320-lola-y-bambi-market-1x.jpeg?versionId=EyI4iIfNHBlONVLlO5wGXSAiACBHq1RC",
+                    "2x": "https://s.superpal.com/store-poster/320-lola-y-bambi-market-2x.jpeg?versionId=HotJ3zdFZ_FuWXXgt16LjhRKjy9pjKic",
+                    "3x": "https://s.superpal.com/store-poster/320-lola-y-bambi-market-3x.jpeg?versionId=R3jspY02FBHe2uE8D6PJihI11lq4i9iF"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "630",
+            "name": "Camilein Doggos",
+            "excerpt": "Ñami food for dogs",
+            "store_id": "321",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Camilein Doggos and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Camilein Doggos and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/aa11bb7b-dc4.png?versionId=GsVCAKezAlEj45IcZzX5e9I.2McpYQI3",
+            "brand_color": "de8b8b",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/321-camilein-doggos-1x.jpg?versionId=M0B5ZpE9Hx47OczzdKvU727pgpAw2tUa",
+                    "2x": "https://s.superpal.com/store-poster/321-camilein-doggos-2x.jpg?versionId=Q7v66GqaQJ4rSIkC7jEheErFGGOdJhle",
+                    "3x": "https://s.superpal.com/store-poster/321-camilein-doggos-3x.jpg?versionId=hIIaznyPl8V.fYZ4owyLiV9wcEWu6YiP"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "hard-Carnicería",
+    "name": "Butchery",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "692",
+            "name": "Mi tienda vikinga",
+            "excerpt": "Comerás como Vikingo!",
+            "store_id": "378",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Mi tienda vikinga and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Mi tienda vikinga and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/99321d9f-ea3.png?versionId=TRK7BMXildTOquS9RADw1h40aKMiLvG5",
+            "brand_color": "050505",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/378-mi-tienda-vikinga-1x.png?versionId=e0x5lZ9r2OoqlU_SoEGSxw1ifaCQNhfu",
+                    "2x": "https://s.superpal.com/store-poster/378-mi-tienda-vikinga-2x.png?versionId=5uo.A7ulpekOp3jIyQlhoc9nL6ATG7en",
+                    "3x": "https://s.superpal.com/store-poster/378-mi-tienda-vikinga-3x.png?versionId=ykMcfraf0uvTLBbw5H3V8Ywcgu6pckKk"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "455",
+            "name": "PC Factory",
+            "excerpt": "Productos tecnológicos",
+            "store_id": "187",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-logo/12f6e24d-fa1.png?versionId=mQrIhd3MVVA6hFZjUAyCFru.UDsLUjGO",
+            "brand_color": "339933",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/187-south-beef-1x.png?versionId=wALv_ejUt_4qL.gpEB4EpxLIlgKzeREl",
+                    "2x": "https://s.superpal.com/store-poster/187-south-beef-2x.png?versionId=ly5FtjHKEwRJXr273EKp29or0R2l5dMu",
+                    "3x": "https://s.superpal.com/store-poster/187-south-beef-3x.png?versionId=UEPDYqM9rpmEa8iCx5d2ti6RhE3cmJBn"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "21",
+            "name": "Gourmeat",
+            "excerpt": null,
+            "store_id": "12",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "There is a service charge on items from Gourmeat.",
+                "disclaimer": "There is a service charge on items from Gourmeat."
+            },
+            "img_url": "https://s.superpal.com/store-images-white/12.png",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "924",
+            "name": "testing",
+            "excerpt": "asdadadsadadsdadadad",
+            "store_id": "532",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at testing and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at testing and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/ecac2201-2eb.png?versionId=Iuik6XfU0KeyK1E5qmU7tbZ1wriCnhd0",
+            "brand_color": "512d2d",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/532-testing-1x.jpeg?versionId=CGvlqA.CKPj895xh3Yk_NHqjHhpS4.ML",
+                    "2x": "https://s.superpal.com/store-poster/532-testing-2x.jpeg?versionId=qbX.ykGMZsH8WqjYeDWBvp_LvoKtAeRV",
+                    "3x": "https://s.superpal.com/store-poster/532-testing-3x.jpeg?versionId=a52Ct9BFPLxFcL.WvbbU54urc9yuI7OL"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "hard-Ferretería",
+    "name": "Ferretería",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "670",
+            "name": "prueba membresía",
+            "excerpt": "que buena son las membership!!",
+            "store_id": "352",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at prueba membresía and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at prueba membresía and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/de28f951-54f.png?versionId=gnoefWFprmdpySvZnSFBT.h94YA8jbv1",
+            "brand_color": "bf2828",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/352-prueba-membresia-1x.jpg?versionId=UapUFwzGz0ATvwL8vaO6BXxfkuvz1MX0",
+                    "2x": "https://s.superpal.com/store-poster/352-prueba-membresia-2x.jpg?versionId=nu.3fxwNxeNsThK1.8SpHWa7X2apzZNu",
+                    "3x": "https://s.superpal.com/store-poster/352-prueba-membresia-3x.jpg?versionId=UShyIj5pdv42No6QO46ArveaUYtRYyrN"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "944",
+            "name": "http://HF-Testing.net",
+            "excerpt": "javascript:alert(HF);",
+            "store_id": "423",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at http://HF-Testing.net and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at http://HF-Testing.net and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/6b8d796c-b72.png?versionId=tqrD5FAebQi5_TLRe3_CJwCPzc7akPRK",
+            "brand_color": "070707",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/423-httphf-testingnet-1x.jpeg?versionId=mN8TQbvcxG1bZPpD6StBU4mZ6uQi2z5M",
+                    "2x": "https://s.superpal.com/store-poster/423-httphf-testingnet-2x.jpeg?versionId=1JoDWva6VR1v5Ov1GykfoI9yugy__zVd",
+                    "3x": "https://s.superpal.com/store-poster/423-httphf-testingnet-3x.jpeg?versionId=wE0FUQR.HcVb8F7hNFAoNMd4nJsh1m_5"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "hard-Librería",
+    "name": "Librería",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1023",
+            "name": "Automato Store 15 SDET",
+            "excerpt": "Store automato 15 SDET",
+            "store_id": "614",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Automato Store 15 SDET and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Automato Store 15 SDET and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/6a5918e4-efe.png?versionId=V.oW28V4TJpNoMhhfATLg5IG75nLekSk",
+            "brand_color": "593232",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/614-automato-store-15-sdet-1x.jpeg?versionId=grWABF6C40pOeg_5jtRuRer0LMQJNJwK",
+                    "2x": "https://s.superpal.com/store-poster/614-automato-store-15-sdet-2x.jpeg?versionId=la5OcvXpkQcRzX7VQUaMoJXGg0Zyq6J7",
+                    "3x": "https://s.superpal.com/store-poster/614-automato-store-15-sdet-3x.jpeg?versionId=wsIhTHf6u_GBlg_NO9.Ajzmw.BtTo8U5"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "991",
+            "name": "Automato Merchant 9",
+            "excerpt": "store automato merchant 9",
+            "store_id": "587",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Automato Merchant 9 and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Automato Merchant 9 and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/39094769-361.png?versionId=cHRWlUzTUgg9Ro.yFi.Au_jXXu4dT2s9",
+            "brand_color": "433939",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/587-automato-merchant-9-1x.jpeg?versionId=SWLmvWCzzfu4yypjTIG.uLFiQCjSsM3Y",
+                    "2x": "https://s.superpal.com/store-poster/587-automato-merchant-9-2x.jpeg?versionId=5cCayk2k_Sey95XGMYPuJJJW0IvYqCWC",
+                    "3x": "https://s.superpal.com/store-poster/587-automato-merchant-9-3x.jpeg?versionId=73JQXEC0e3M.sAHvBgKA57reldMJeJAi"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1063",
+            "name": "Only products",
+            "excerpt": "Store for handled products for",
+            "store_id": "626",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Only products and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Only products and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/3b6febeb-074.png?versionId=aaSUMOUswsZEaY8VOdsEeexfwvpIsFoz",
+            "brand_color": "514545",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/626-only-products-1x.jpeg?versionId=iw9SjmYbQw7KECJBhsgT0rA_J9RCGRUE",
+                    "2x": "https://s.superpal.com/store-poster/626-only-products-2x.jpeg?versionId=JSX0aavwgidHq7UXHG9uJhsZunvaymVV",
+                    "3x": "https://s.superpal.com/store-poster/626-only-products-3x.jpeg?versionId=ULBXLwadD57_pChNPFk1FQOtcjSgDT9Z"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1032",
+            "name": "Only users",
+            "excerpt": "Store for handled users for SDE",
+            "store_id": "627",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Only users and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Only users and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/c647387d-eab.png?versionId=he5c7JDqcpGkVyHOk5C3gSY_MLfeVQdI",
+            "brand_color": "574141",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/627-only-users-1x.jpeg?versionId=k.CPUm1cJyS9yZw6j5QGwY_fW60Qqsoa",
+                    "2x": "https://s.superpal.com/store-poster/627-only-users-2x.jpeg?versionId=lE0.bT5F5h4D.5HqARbmQOFBGmM_O9YA",
+                    "3x": "https://s.superpal.com/store-poster/627-only-users-3x.jpeg?versionId=ju4LeYR9T0aj3LDof6e.wPy0pJFU82t8"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1002",
+            "name": "Automato Store 6 SDET",
+            "excerpt": "Store automato 6 SDET",
+            "store_id": "597",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Automato Store 6 SDET and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Automato Store 6 SDET and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/5fc47fb3-1e3.png?versionId=JJhxbLcAEo0gyCS6tKMZJaoys1bo7j9k",
+            "brand_color": "7a5a5a",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/597-automato-store-6-sdet-1x.jpeg?versionId=JbOiOdWSm4toV1J5EYgwrwqOjTj1v0cF",
+                    "2x": "https://s.superpal.com/store-poster/597-automato-store-6-sdet-2x.jpeg?versionId=S1Rx4MRzjBY5SYz4tMFXmFse0dU.Zydy",
+                    "3x": "https://s.superpal.com/store-poster/597-automato-store-6-sdet-3x.jpeg?versionId=l3q5Z9_v6_buFh3mNQ4b_Oi5bGrMyeVY"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1034",
+            "name": "Only add users",
+            "excerpt": "Store not published",
+            "store_id": "629",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Only add users and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Only add users and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/594106a9-e24.png?versionId=IWZuaXu02qhNUcl.Kx4xPv0PYMz3tq8l",
+            "brand_color": "413232",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/629-only-add-users-1x.jpeg?versionId=EhmIFa_iY3pAtcnhVR0ipyIWaQmAjJ6.",
+                    "2x": "https://s.superpal.com/store-poster/629-only-add-users-2x.jpeg?versionId=9myNUFmHMHEVwr9GzTmiYuzZxwWohR2U",
+                    "3x": "https://s.superpal.com/store-poster/629-only-add-users-3x.jpeg?versionId=lZsEnV1c498zd2aEZhgJq2XX9jcezbi6"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "829",
+            "name": "Tanchi",
+            "excerpt": "Books store",
+            "store_id": "472",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Tanchi and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Tanchi and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/8316cabc-d6e.png?versionId=WOeEvdMgOhdwkeWMWyf3upFHKwdl0YvH",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/472-tanchi-1x.jpeg?versionId=H2gVjrxmK_wQ.XIF2taSosYc10c9ArpE",
+                    "2x": "https://s.superpal.com/store-poster/472-tanchi-2x.jpeg?versionId=yeQVheH9ClUMG2fFO5baQKSy6wA5ga8e",
+                    "3x": "https://s.superpal.com/store-poster/472-tanchi-3x.jpeg?versionId=ZaGDpEM3J_Ut9fo05kvJ0WlRJbxfT_0C"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "medium"
+        }
+    }
+}, {
+    "id": "hard-Gourmet",
+    "name": "Gourmet",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "776",
+            "name": "Dai Store",
+            "excerpt": "Comida casera",
+            "store_id": "432",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Dai Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Dai Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/e6a960f0-f54.png?versionId=62I_fRq0eZ6TuyKMS3VGqg7_.29PADRj",
+            "brand_color": "e38aa9",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/432-dai-store-1x.jpeg?versionId=Im4EKcTKU.mdX1UiaDiZ2UuPKiNNaFH3",
+                    "2x": "https://s.superpal.com/store-poster/432-dai-store-2x.jpeg?versionId=VWttOBPaZBgvbgfDxkkpg8vgYZalBzIt",
+                    "3x": "https://s.superpal.com/store-poster/432-dai-store-3x.jpeg?versionId=I8hd5Lgc1knJclYcO9I65mbTGLmfnWvF"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "415",
+            "name": "The Market",
+            "excerpt": "Gourmet experience. Productos Artesanales de distintas partes de Chile, especiales, naturales sin gluten,  sin preservantes y más!",
+            "store_id": "154",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-images-white/55.png",
+            "brand_color": "222220",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "369",
+            "name": "Adagio Teas",
+            "excerpt": "Especialistas en ofrecer tés en hoja de distintos orígenes. Ofrecemos multiples formatos de accesorios y una amplia oferta de regalos.",
+            "store_id": "99",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/adagio-light-2.png",
+            "brand_color": "e75300",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "hard-Comida preparada",
+    "name": "Comida preparada",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "427",
+            "name": "Pablo y Nicolás Pinto comida preparada",
+            "excerpt": "Comida casera gourmet más de 30 años de experiencia. Tendrás la solución desde aperitivo hasta el postre ¿Qué comer?  ya no será un problema",
+            "store_id": "168",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/pabloynicolaspinto-light.png",
+            "brand_color": "d93535",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1040",
+            "name": "CLShop",
+            "excerpt": "Shop dedicated to sell meals 24",
+            "store_id": "635",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at CLShop and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at CLShop and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/49cefed1-83c.png?versionId=QAckwcTvt5KukWulFyBYLzMf5MrfZp6a",
+            "brand_color": "2aaa2c",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/635-clshop-1x.jpeg?versionId=azWyCNpuTIG0x1hUh_N4_ZVu1t8BnTBp",
+                    "2x": "https://s.superpal.com/store-poster/635-clshop-2x.jpeg?versionId=dCEqPO..Yl.lizwA9VmzDcd2SFYpUdHj",
+                    "3x": "https://s.superpal.com/store-poster/635-clshop-3x.jpeg?versionId=3LcK_Bdw6UxtWJd0gxo4x3kPFcpwjbxE"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "336",
+            "name": "Empanadas Delivery",
+            "excerpt": "Local de venta de empanadas gourmet, con ingredientes innovadores y de buena calidad. Creada hace tres años. Gran éxito de ventas.",
+            "store_id": "67",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/a109055e-26f.png",
+            "brand_color": "dfe323",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "hard-Supermercados",
+    "name": "Supermercados",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "29",
+            "name": "Jumbo",
+            "excerpt": "Cadena de supermercados chilena desde 1976. Ofrece alimentos, abarrotes y artículos para el hogar. Pertenece al consorcio Cencosud®.",
+            "store_id": "4",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Jumbo and are periodically updated. There may be some differences depending on the product format and the store location. We do not feature all store promotions, as we have hundreds of exclusive Cornershop promotions.",
+                "disclaimer": "The prices are the same as you would find at Jumbo and are periodically updated. There may be some differences depending on the product format and the store location. We do not feature all store promotions, as we have hundreds of exclusive Cornershop promotions."
+            },
+            "img_url": "https://s.superpal.com/store-images-white/4.png",
+            "brand_color": "279f5b",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "792",
+            "name": "la tiendita de de",
+            "excerpt": "productos naturales y saludable",
+            "store_id": "444",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at la tiendita de de and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at la tiendita de de and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/cd1f806b-267.png?versionId=h.mgyThMbWe2ZZnEkrFQKw.CNJyLsfjW",
+            "brand_color": "e3acac",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/444-la-tiendita-de-de-1x.jpeg?versionId=yy1QUWlNQeL3gEpKMpw2rwrI5Exqno0M",
+                    "2x": "https://s.superpal.com/store-poster/444-la-tiendita-de-de-2x.jpeg?versionId=3J31uJ2Z4aMBBMJJqLsaVWTrO0hoLsNF",
+                    "3x": "https://s.superpal.com/store-poster/444-la-tiendita-de-de-3x.jpeg?versionId=UNx9w6sqiUwX_pP25l9XQpAo4xYT25W7"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "768",
+            "name": "La tienda de Saher",
+            "excerpt": "Lorem Ipsum is simply dummy tex",
+            "store_id": "398",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at La tienda de Saher and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at La tienda de Saher and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/a4467f08-65c.png?versionId=0TZRhiU2Y7F2r3.rF_SRUye7a0RB9vl7",
+            "brand_color": "00894f",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-1x.jpeg?versionId=XPuZ2C5JL5OIUwlYqjD405GTi0hqxTNA",
+                    "2x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-2x.jpeg?versionId=RE.WkeifgBmWiMykwQCknDyvN8SRD10V",
+                    "3x": "https://s.superpal.com/store-poster/398-la-tienda-de-saher-3x.jpeg?versionId=FnK6l68sue5Hv_4gn9DPFYERQtDCoMlC"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "738",
+            "name": "Paris",
+            "excerpt": "Lo que buscas está en Paris",
+            "store_id": "415",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Paris and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Paris and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/logo.png?versionId=sP4fa8zGhigZkkOFsGAYVPFnFF75n7S8",
+            "brand_color": "009de0",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/415-paris-1x.jpg?versionId=3sexQVBieAKPiPPf8_MuF0eRFwSSEAkB",
+                    "2x": "https://s.superpal.com/store-poster/415-paris-2x.jpg?versionId=9408IPxgmRkQ3OYlNxXWgOEqIHzNIzc5",
+                    "3x": "https://s.superpal.com/store-poster/415-paris-3x.jpg?versionId=Uuy_pFXhOzz42xMVz3jtKA53uamLqaiK"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "small"
+        }
+    }
+}, {
+    "id": "others",
+    "name": "Other stores",
+    "items": [{
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "22",
+            "name": "Salcobrand",
+            "excerpt": "Cadena de farmacias con productos de salud, belleza y bienestar. Pertenece a Empresas SB fundada en 2007.",
+            "store_id": "13",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Salcobrand and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Salcobrand and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-images-white/15.png",
+            "brand_color": "0075c2",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "26",
+            "name": "Homecenter Sodimac",
+            "excerpt": "Todo para renovar tu hogar",
+            "store_id": "17",
+            "pricing_notes": {
+                "title": "Cargo por servicio",
+                "description": "Este es un mensaje de precios",
+                "disclaimer": "Este es un mensaje de precios"
+            },
+            "img_url": "https://s.superpal.com/store-images-white/17.png",
+            "brand_color": "3a6bb2",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "409",
+            "name": "Benicio",
+            "excerpt": "Tienda establecida en el año 2015. Se especializa en productos naturales como frutas, verduras y productos gourmet. ",
+            "store_id": "147",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-images-white/44.png",
+            "brand_color": "6f6d6d",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/benicio-1x.jpg?versionId=kSAOenjCvLHwpgkD9i0NNtaS0W0J12A8",
+                    "2x": "https://s.superpal.com/store-poster/benicio-2x.jpg?versionId=IIX3g.RBQAcnfDK_dSq5G_80Fx665.7O",
+                    "3x": "https://s.superpal.com/store-poster/benicio-2x.jpg?versionId=IIX3g.RBQAcnfDK_dSq5G_80Fx665.7O"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "414",
+            "name": "Farmacias Ahumada",
+            "excerpt": "Cadena de Farmacias perteneciente a Walgreens Boots Alliance. Ofrece medicamentos, artículos de belleza, higiene y cuidado personal.",
+            "store_id": "153",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-images-white/50.png",
+            "brand_color": "c42826",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "418",
+            "name": "Kios Club",
+            "excerpt": "Tienda especializada en productos de supermercado de marcas Americanas.",
+            "store_id": "158",
+            "pricing_notes": {
+                "title": "Precios incluyen un cargo por servicio",
+                "description": "En esta tienda los precios tienen incorporado un cargo por servicio promedio de 10% del valor de tu compra.",
+                "disclaimer": "En esta tienda los precios tienen incorporado un cargo por servicio promedio de 10% del valor de tu compra."
+            },
+            "img_url": "https://s.superpal.com/store-images-white/53.png",
+            "brand_color": "132d52",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "936",
+            "name": "Mi super Aldo",
+            "excerpt": "La mejor tienda",
+            "store_id": "543",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Mi super Aldo and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Mi super Aldo and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/092be63e-289.png?versionId=Nqtss8HZ0.G_u8S.NnhSntFp4un2Vk2c",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/543-mi-super-aldo-1x.jpeg?versionId=NUK6oqTfFgCYiFDps5ineFaU3sQkWz2G",
+                    "2x": "https://s.superpal.com/store-poster/543-mi-super-aldo-2x.jpeg?versionId=3abdZIMVPDFYBSLIKFOXnNw.sb5dXotJ",
+                    "3x": "https://s.superpal.com/store-poster/543-mi-super-aldo-3x.jpeg?versionId=Pb.3bLy3FPhzK_YHsZTBWAS6_47m_KdL"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "426",
+            "name": "Verdulería Doña Amalia",
+            "excerpt": "Somos la Verdulería de Vitacura. Traemos todos los dias verduras y frutas frescas, frutos secos, bebidas y muchos productos de calidad super",
+            "store_id": "166",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/dona_amalia-light-2.png",
+            "brand_color": "40ab91",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "601",
+            "name": "Ventas Muñoz",
+            "excerpt": "Ropa de segunda mano",
+            "store_id": "303",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Ventas Muñoz and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Ventas Muñoz and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/8bab519b-775.png?versionId=OKXgdYJ7jnmQK8soAMairOU01C3iKuX1",
+            "brand_color": "25a572",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/303-venta-munoz-1x.png?versionId=LYeH9TznM_sBMxw6BzApWXDcXh_hdFgi",
+                    "2x": "https://s.superpal.com/store-poster/303-venta-munoz-2x.png?versionId=8UE9hkObmG4.U4sLxXYFVTY4iuaZULZ7",
+                    "3x": "https://s.superpal.com/store-poster/303-venta-munoz-3x.png?versionId=n0fVnoyUtMIwPNUMDqw2T4dg4AhZSBUy"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "603",
+            "name": "probando pay",
+            "excerpt": "dwbgueq fgeq gioqe bvq beqi bi",
+            "store_id": "306",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at probando pay and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at probando pay and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/24534d73-5bd.png?versionId=J02MjS.YKh56uttUROyCRhDxthV8W4cx",
+            "brand_color": "f5d9d9",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/306-probando-pay-1x.jpg?versionId=ayw6YoWXSo3a3NC13h73qNbzCoXsn.aC",
+                    "2x": "https://s.superpal.com/store-poster/306-probando-pay-2x.jpg?versionId=uOOFo.basNNfBF59MoczR26vwr2iVq65",
+                    "3x": "https://s.superpal.com/store-poster/306-probando-pay-3x.jpg?versionId=m8dDktUq6iWyy_TTURKkXwpyfhcXlvGe"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "605",
+            "name": "Mi tienda con Matías",
+            "excerpt": "Cualquier cosa",
+            "store_id": "308",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Mi tienda con Matías and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Mi tienda con Matías and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/97ff943d-039.png?versionId=iI4S9w6fNNOlHSW2zFssB1VuLmWgfEv3",
+            "brand_color": "ff0acf",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/308-mi-tienda-con-matias-1x.jpg?versionId=Q7J1U.N9s3rqzsduke_JGFQmhPaz2SwD",
+                    "2x": "https://s.superpal.com/store-poster/308-mi-tienda-con-matias-2x.jpg?versionId=tX7MndFbasVUpmgXVfngwKKTpGbVqlfT",
+                    "3x": "https://s.superpal.com/store-poster/308-mi-tienda-con-matias-3x.jpg?versionId=pXTp8O463_g8Cdr.GoPHPmlJs3yAg5qk"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "470",
+            "name": "La Edilssonería",
+            "excerpt": "Nos comemos tu comida 24x7",
+            "store_id": "198",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/store-logo/2066add0-e11.png?versionId=HGfmbun_6qq4BSkwx1uPkoZeJ536tX.0",
+            "brand_color": "000000",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/198-la-edilssoneria-1x.jpeg?versionId=JktMbYbR0vVF2apY7E482qySA0ZZ0VGx",
+                    "2x": "https://s.superpal.com/store-poster/198-la-edilssoneria-2x.jpeg?versionId=U_.rFJuTfjuDLI8bnFc6WPKg.vk80T1E",
+                    "3x": "https://s.superpal.com/store-poster/198-la-edilssoneria-3x.jpeg?versionId=6r.zGFkT1a9uVE7gA_ONTY0W9wbUxi28"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "342",
+            "name": "Nespresso",
+            "excerpt": "Nespresso",
+            "store_id": "73",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/f733ba93-9ef.png",
+            "brand_color": "302e2e",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "1022",
+            "name": "Fabita Store",
+            "excerpt": "La tiendita de fabi",
+            "store_id": "618",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Fabita Store and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/1aea1fae-8c0.png?versionId=IEJbv4K1qeFmlf2SmqYExqSnN5vJGCsV",
+            "brand_color": "621cea",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/618-fabita-store-1x.jpeg?versionId=cBSvCVRW_twOmqYJ68m7Rl_WDZ59IWb8",
+                    "2x": "https://s.superpal.com/store-poster/618-fabita-store-2x.jpeg?versionId=SWRF15sGGZnjqqC0QGSdRC.oMH4NIAOQ",
+                    "3x": "https://s.superpal.com/store-poster/618-fabita-store-3x.jpeg?versionId=LeS22mgp1O2cOHnVZt8XgDA8MgepTZXm"
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "378",
+            "name": "Cotillón Festday",
+            "excerpt": "Tienda de cotillón, artículos de cumpleaños y accesorios de disfraces. Con más de 8 años en el mercado, contamos con 3 tiendas en Santiago.",
+            "store_id": "108",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "Los precios son los mismos que encontrarías en la tienda",
+                "disclaimer": "Los precios son los mismos que encontrarías en la tienda"
+            },
+            "img_url": "https://s.superpal.com/media/store-logo/ef6365cb-258.png",
+            "brand_color": "ed6328",
+            "poster": {
+                "imageset": {
+                    "1x": null,
+                    "2x": null,
+                    "3x": null
+                }
+            }
+        }
+    }, {
+        "type": "branch",
+        "badges": [],
+        "content": {
+            "id": "693",
+            "name": "Test FQ",
+            "excerpt": "Florería boutique",
+            "store_id": "380",
+            "pricing_notes": {
+                "title": "Pricing policy",
+                "description": "The prices are the same as you would find at Test FQ and are periodically updated. There might be some differences depending on the store location and store promotions.",
+                "disclaimer": "The prices are the same as you would find at Test FQ and are periodically updated. There might be some differences depending on the store location and store promotions."
+            },
+            "img_url": "https://s.superpal.com/store-logo/9de47357-803.png?versionId=IpL3sMbUkDuuo0sldCr25oGxblnASk9y",
+            "brand_color": "f5caf6",
+            "poster": {
+                "imageset": {
+                    "1x": "https://s.superpal.com/store-poster/380-test-fq-1x.png?versionId=H877paDTgK17fiO8dgoNTHl8yxhEZYs0",
+                    "2x": "https://s.superpal.com/store-poster/380-test-fq-2x.png?versionId=CqxRA8Cz10AYWihmeL503lAZlrrFkw3F",
+                    "3x": "https://s.superpal.com/store-poster/380-test-fq-3x.png?versionId=c5575o0tssbnIpr_faXosNQhnWsihUeL"
+                }
+            }
+        }
+    }],
+    "style": {
+        "type": "list",
+        "attributes": {
+            "preferred_size": "large"
+        }
+    }
+}]

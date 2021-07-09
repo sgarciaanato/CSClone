@@ -1,0 +1,3014 @@
+{
+    "id": "C_512",
+    "img_url": "https://s.superpal.com/department-images/4.jpg",
+    "name": "Lácteos y huevos",
+    "top_products": [{
+        "id": 68454,
+        "brand": {
+            "id": 1091,
+            "name": "Pacific"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 3590.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per liter",
+                "unit": "lt",
+                "amount": 3794.92600422833,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$3.795/lt",
+        "regulatory_fees": [],
+        "price": 3590.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Leche Orgánica de Almendra",
+        "description": null,
+        "package": "Sin azúcar, Caja 946 ml.",
+        "img_url": "https://s.superpal.com/product-images/68454.jpg"
+    }, {
+        "id": 67767,
+        "brand": {
+            "id": 55,
+            "name": "Quillayes"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 2780.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 3088.8888888888887,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$3.089/kg",
+        "regulatory_fees": [],
+        "price": 2780.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Yoghurt con Trozos de Frutas",
+        "description": null,
+        "package": "Papaya, Pote 900 grs.",
+        "img_url": "https://s.superpal.com/product-images/67767.jpg"
+    }, {
+        "id": 66844,
+        "brand": {
+            "id": 30,
+            "name": "Lonco Leche"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 950.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": null
+        },
+        "price_per_unit": "",
+        "regulatory_fees": [],
+        "price": 950.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Leche Descremada",
+        "description": null,
+        "package": "Sin Lactosa, Caja tapa rosca 1 litro",
+        "img_url": "https://s.superpal.com/product-images/66844.jpg"
+    }, {
+        "id": 68491,
+        "brand": {
+            "id": 9,
+            "name": "Colun"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 230.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 1840.0,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$1.840/kg",
+        "regulatory_fees": [],
+        "price": 230.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Yoghurt Batido Light",
+        "description": null,
+        "package": "Frutilla, 125 grs.",
+        "img_url": "https://s.superpal.com/product-images/68491.jpg"
+    }, {
+        "id": 68081,
+        "brand": {
+            "id": 9,
+            "name": "Colun"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 390.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 4333.333333333334,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$4.333/kg",
+        "regulatory_fees": [],
+        "price": 390.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Batido",
+        "description": null,
+        "package": "Squeeze 90 g., Sabor Frutilla",
+        "img_url": "https://s.superpal.com/product-images/68081.jpg"
+    }, {
+        "id": 69621,
+        "brand": {
+            "id": 955,
+            "name": "Jumbo"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 1490.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 39210.52631578947,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$39.211/kg",
+        "regulatory_fees": [],
+        "price": 1490.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Calugas de Leche",
+        "description": null,
+        "package": "Con nueces, Sin azúcar, Sin gluten, 38 grs.",
+        "img_url": "https://s.superpal.com/product-images/69621.jpg"
+    }, {
+        "id": 67577,
+        "brand": {
+            "id": 1054,
+            "name": "Kastanon"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 1790.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": null
+        },
+        "price_per_unit": "",
+        "regulatory_fees": [],
+        "price": 1790.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Queso Mantecoso",
+        "description": null,
+        "package": "1/4 Kg Trozo, Mesón",
+        "img_url": "https://s.superpal.com/product-images/67577.jpg"
+    }, {
+        "id": 69889,
+        "brand": {
+            "id": 1218,
+            "name": "Déliz"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 2150.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": null
+        },
+        "price_per_unit": "",
+        "regulatory_fees": [],
+        "price": 2150.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Huevos de Codorniz",
+        "description": null,
+        "package": "Bandeja 24 unidades",
+        "img_url": "https://s.superpal.com/product-images/69889.jpg"
+    }, {
+        "id": 70503,
+        "brand": {
+            "id": 1179,
+            "name": "Arla"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 2870.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 19133.333333333336,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$19.133/kg",
+        "regulatory_fees": [],
+        "price": 2870.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Queso en Cubitos",
+        "description": null,
+        "package": "Apetina feta, Finas hierbas, En aceite, 150 grs.",
+        "img_url": "https://s.superpal.com/product-images/70503.jpg"
+    }, {
+        "id": 70621,
+        "brand": {
+            "id": 1303,
+            "name": "Emmi"
+        },
+        "kind": "PRODUCT",
+        "related_to": null,
+        "buy_unit": "UN",
+        "default_buy_unit": "UN",
+        "variable_weight": null,
+        "currency": "CLP",
+        "unit_conversion_rate": null,
+        "purchasable": true,
+        "pricing": {
+            "original_price": null,
+            "price": {
+                "label": "Price",
+                "amount": 11870.0,
+                "currency": "CLP"
+            },
+            "price_per_unit": {
+                "label": "Price per kilogram",
+                "unit": "kg",
+                "amount": 29675.0,
+                "currency": "CLP"
+            }
+        },
+        "price_per_unit": "$29.675/kg",
+        "regulatory_fees": [],
+        "price": 11870.0,
+        "original_price": null,
+        "label": null,
+        "description_sections": [],
+        "availability_status": null,
+        "nutritional_info": null,
+        "name": "Queso Fondue",
+        "description": null,
+        "package": "Para fundir, Provencale, 400 grs.",
+        "img_url": "https://s.superpal.com/product-images/70621.jpg"
+    }],
+    "aisles": [{
+        "id": "C_25",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Crema",
+        "num_products": 42,
+        "top_products": [{
+            "id": 70206,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 810.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 4050.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.050/lt",
+            "regulatory_fees": [],
+            "price": 810.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema Para Postres y Cocina",
+            "description": null,
+            "package": "Caja 200 cc.",
+            "img_url": "https://s.superpal.com/product-images/70206.jpg"
+        }, {
+            "id": 70149,
+            "brand": {
+                "id": 19,
+                "name": "Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 930.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5812.5,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.812/kg",
+            "regulatory_fees": [],
+            "price": 930.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema Fresca",
+            "description": null,
+            "package": "Pote 160 grs.",
+            "img_url": "https://s.superpal.com/product-images/70149.jpg"
+        }, {
+            "id": 70148,
+            "brand": {
+                "id": 19,
+                "name": "Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4310.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 4310.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema Fresca",
+            "description": null,
+            "package": "Bolsa1 litro",
+            "img_url": "https://s.superpal.com/product-images/70148.jpg"
+        }, {
+            "id": 70111,
+            "brand": {
+                "id": 40,
+                "name": "Santa Rosa"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2480.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 16533.333333333336,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$16.533/kg",
+            "regulatory_fees": [],
+            "price": 2480.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema Chantilly",
+            "description": null,
+            "package": "Spray, Botella 150 grs.",
+            "img_url": "https://s.superpal.com/product-images/70111.jpg"
+        }, {
+            "id": 70098,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 9560.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$9.560/lt",
+            "regulatory_fees": [],
+            "price": 2390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema Chantilly Light",
+            "description": null,
+            "package": "250ml.",
+            "img_url": "https://s.superpal.com/product-images/70098.jpg"
+        }, {
+            "id": 70043,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3110.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3110.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema",
+            "description": null,
+            "package": "Caja 1 litro",
+            "img_url": "https://s.superpal.com/product-images/70043.jpg"
+        }, {
+            "id": 70097,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 9560.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$9.560/lt",
+            "regulatory_fees": [],
+            "price": 2390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema Chantilly",
+            "description": null,
+            "package": "250ml.",
+            "img_url": "https://s.superpal.com/product-images/70097.jpg"
+        }, {
+            "id": 70077,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3170.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 3170.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$3.170/lt",
+            "regulatory_fees": [],
+            "price": 3170.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema",
+            "description": null,
+            "package": "Sin Lactosa, Caja 1 Lt.",
+            "img_url": "https://s.superpal.com/product-images/70077.jpg"
+        }, {
+            "id": 76215,
+            "brand": {
+                "id": 1810,
+                "name": "Van Cook"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 470.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 7833.333333333334,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.833/kg",
+            "regulatory_fees": [],
+            "price": 470.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema Chantilly",
+            "description": null,
+            "package": "Instantánea, No láctea, Sobre 60 grs.",
+            "img_url": "https://s.superpal.com/product-images/76215.jpg"
+        }, {
+            "id": 70073,
+            "brand": {
+                "id": 28,
+                "name": "Nestlé"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 980.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4152.542372881356,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.153/kg",
+            "regulatory_fees": [],
+            "price": 980.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema de Leche",
+            "description": null,
+            "package": "Lata 236 grs.",
+            "img_url": "https://s.superpal.com/product-images/70073.jpg"
+        }]
+    }, {
+        "id": "C_26",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Huevos",
+        "num_products": 30,
+        "top_products": [{
+            "id": 69889,
+            "brand": {
+                "id": 1218,
+                "name": "Déliz"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos de Codorniz",
+            "description": null,
+            "package": "Bandeja 24 unidades",
+            "img_url": "https://s.superpal.com/product-images/69889.jpg"
+        }, {
+            "id": 69865,
+            "brand": {
+                "id": 1214,
+                "name": "Santa Marta"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2270.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2270.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos Grandes Color",
+            "description": null,
+            "package": "Bandeja 12 unidades",
+            "img_url": "https://s.superpal.com/product-images/69865.jpg"
+        }, {
+            "id": 69913,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3550.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 3550.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos Extra Grande Blanco",
+            "description": null,
+            "package": "Bandeja 20 unidades",
+            "img_url": "https://s.superpal.com/product-images/69913.jpg"
+        }, {
+            "id": 70038,
+            "brand": {
+                "id": 649,
+                "name": "Yemita"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 3909.0909090909086,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$3.909/kg",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevo",
+            "description": null,
+            "package": "Duro. Envase Doypack. 550 grs.",
+            "img_url": "https://s.superpal.com/product-images/70038.jpg"
+        }, {
+            "id": 69997,
+            "brand": {
+                "id": 92,
+                "name": "Omega 3"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2900.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2900.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos Grandes Color",
+            "description": null,
+            "package": "Bandeja 12 unidades",
+            "img_url": "https://s.superpal.com/product-images/69997.jpg"
+        }, {
+            "id": 70019,
+            "brand": {
+                "id": 1226,
+                "name": "Prado Alto"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1100.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 1100.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos",
+            "description": null,
+            "package": "Blanco, 4 Unidades.",
+            "img_url": "https://s.superpal.com/product-images/70019.jpg"
+        }, {
+            "id": 70018,
+            "brand": {
+                "id": 1226,
+                "name": "Prado Alto"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2630.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2630.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos Premium Blancos",
+            "description": null,
+            "package": "Bandeja 12 unidades",
+            "img_url": "https://s.superpal.com/product-images/70018.jpg"
+        }, {
+            "id": 70017,
+            "brand": {
+                "id": 1225,
+                "name": "Gallina Feliz"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2260.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2260.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos",
+            "description": null,
+            "package": "Bandeja de 6 Unidades.",
+            "img_url": "https://s.superpal.com/product-images/70017.jpg"
+        }, {
+            "id": 69998,
+            "brand": {
+                "id": 92,
+                "name": "Omega 3"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1630.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 1630.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos Grandes Color",
+            "description": null,
+            "package": "Bandeja 6 unidades",
+            "img_url": "https://s.superpal.com/product-images/69998.jpg"
+        }, {
+            "id": 69944,
+            "brand": {
+                "id": 1227,
+                "name": "Talagante"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2620.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2620.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Huevos de Codorniz",
+            "description": null,
+            "package": "Bandeja 24 unidades",
+            "img_url": "https://s.superpal.com/product-images/69944.jpg"
+        }]
+    }, {
+        "id": "C_27",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Leche",
+        "num_products": 353,
+        "top_products": [{
+            "id": 68454,
+            "brand": {
+                "id": 1091,
+                "name": "Pacific"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3590.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 3794.92600422833,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$3.795/lt",
+            "regulatory_fees": [],
+            "price": 3590.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Leche Orgánica de Almendra",
+            "description": null,
+            "package": "Sin azúcar, Caja 946 ml.",
+            "img_url": "https://s.superpal.com/product-images/68454.jpg"
+        }, {
+            "id": 66844,
+            "brand": {
+                "id": 30,
+                "name": "Lonco Leche"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 950.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 950.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Leche Descremada",
+            "description": null,
+            "package": "Sin Lactosa, Caja tapa rosca 1 litro",
+            "img_url": "https://s.superpal.com/product-images/66844.jpg"
+        }, {
+            "id": 69621,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1490.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 39210.52631578947,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$39.211/kg",
+            "regulatory_fees": [],
+            "price": 1490.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Calugas de Leche",
+            "description": null,
+            "package": "Con nueces, Sin azúcar, Sin gluten, 38 grs.",
+            "img_url": "https://s.superpal.com/product-images/69621.jpg"
+        }, {
+            "id": 69977,
+            "brand": {
+                "id": 955,
+                "name": "Jumbo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 2990.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$2.990/lt",
+            "regulatory_fees": [],
+            "price": 2990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Crema de Leche",
+            "description": null,
+            "package": "Caja 1 L.",
+            "img_url": "https://s.superpal.com/product-images/69977.jpg"
+        }, {
+            "id": 68966,
+            "brand": {
+                "id": 27,
+                "name": "Surlat"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 370.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 1850.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$1.850/lt",
+            "regulatory_fees": [],
+            "price": 370.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Leche",
+            "description": null,
+            "package": "Sabor Chocolate. Caja 200 ml.",
+            "img_url": "https://s.superpal.com/product-images/68966.jpg"
+        }, {
+            "id": 68897,
+            "brand": {
+                "id": 1133,
+                "name": "Swiss Miss"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 45303.030303030304,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$45.303/kg",
+            "regulatory_fees": [],
+            "price": 2990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mezcla de Leche con Chocolate Diet",
+            "description": null,
+            "package": "Con calcio, Endulzado con Splenda,  Caja 66 grs.",
+            "img_url": "https://s.superpal.com/product-images/68897.jpg"
+        }, {
+            "id": 83629,
+            "brand": {
+                "id": 2774,
+                "name": "Mami Stop"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 6590.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 26360.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$26.360/kg",
+            "regulatory_fees": [],
+            "price": 6590.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Sustituto de Leche Materna Canina",
+            "description": null,
+            "package": "Pote 250 grs.",
+            "img_url": "https://s.superpal.com/product-images/83629.jpg"
+        }, {
+            "id": 69281,
+            "brand": {
+                "id": 30,
+                "name": "Lonco Leche"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2440.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2440.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Leche Chocolate",
+            "description": null,
+            "package": "Semidescremada, Pack 6 unidades, Caja 200 cc. c/u",
+            "img_url": "https://s.superpal.com/product-images/69281.jpg"
+        }, {
+            "id": 68427,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Leche Descremada",
+            "description": null,
+            "package": "Natural, Pack 6 unidades, Caja 200 cc. c/u",
+            "img_url": "https://s.superpal.com/product-images/68427.jpg"
+        }, {
+            "id": 68720,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 350.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 1750.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$1.750/lt",
+            "regulatory_fees": [],
+            "price": 350.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Leche Entera",
+            "description": null,
+            "package": "Natural, Caja 200 cc.",
+            "img_url": "https://s.superpal.com/product-images/68720.jpg"
+        }]
+    }, {
+        "id": "C_29",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Mantequilla",
+        "num_products": 57,
+        "top_products": [{
+            "id": 70036,
+            "brand": {
+                "id": 1224,
+                "name": "Kerrygold"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2630.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 10520.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$10.520/kg",
+            "regulatory_fees": [],
+            "price": 2630.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mantequilla",
+            "description": null,
+            "package": "Con Sal, untable. 250grs.",
+            "img_url": "https://s.superpal.com/product-images/70036.jpg"
+        }, {
+            "id": 69933,
+            "brand": {
+                "id": 1223,
+                "name": "Qualy Sadia"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 2380.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$2.380/kg",
+            "regulatory_fees": [],
+            "price": 1190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Margarina",
+            "description": null,
+            "package": "Cremosa,Vegetal, Pote 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/69933.jpg"
+        }, {
+            "id": 69935,
+            "brand": {
+                "id": 1159,
+                "name": "Dos Alamos Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1670.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 6680.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$6.680/kg",
+            "regulatory_fees": [],
+            "price": 1670.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mantequilla",
+            "description": null,
+            "package": "Con sal, Pan 250 grs.",
+            "img_url": "https://s.superpal.com/product-images/69935.jpg"
+        }, {
+            "id": 69814,
+            "brand": {
+                "id": 26,
+                "name": "Bonella"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 6142.857142857143,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$6.143/kg",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Margarina Light",
+            "description": null,
+            "package": "Pote 350 grs.",
+            "img_url": "https://s.superpal.com/product-images/69814.jpg"
+        }, {
+            "id": 69747,
+            "brand": {
+                "id": 19,
+                "name": "Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2270.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 9080.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$9.080/kg",
+            "regulatory_fees": [],
+            "price": 2270.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mantequilla",
+            "description": null,
+            "package": "Con sal y aceite vegetal, Pote 250 grs.",
+            "img_url": "https://s.superpal.com/product-images/69747.jpg"
+        }, {
+            "id": 69795,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 7920.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.920/kg",
+            "regulatory_fees": [],
+            "price": 990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mantequilla",
+            "description": null,
+            "package": "Con sal, Pan 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/69795.jpg"
+        }, {
+            "id": 69965,
+            "brand": {
+                "id": 19,
+                "name": "Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1460.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 2920.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$2.920/kg",
+            "regulatory_fees": [],
+            "price": 1460.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Margarina",
+            "description": null,
+            "package": "Cremosa con leche, Pote 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/69965.jpg"
+        }, {
+            "id": 70070,
+            "brand": {
+                "id": 1224,
+                "name": "Kerrygold"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 9471.36563876652,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$9.471/kg",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mantequilla",
+            "description": null,
+            "package": "Sin Sal. Envase de 227 g.",
+            "img_url": "https://s.superpal.com/product-images/70070.jpg"
+        }, {
+            "id": 69934,
+            "brand": {
+                "id": 1224,
+                "name": "Kerrygold"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2150.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 9471.36563876652,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$9.471/kg",
+            "regulatory_fees": [],
+            "price": 2150.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Mantequilla",
+            "description": null,
+            "package": "Con sal, Irlandesa, Pan 227 grs.",
+            "img_url": "https://s.superpal.com/product-images/69934.jpg"
+        }, {
+            "id": 69911,
+            "brand": {
+                "id": 26,
+                "name": "Bonella"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2210.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4420.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.420/kg",
+            "regulatory_fees": [],
+            "price": 2210.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Margarina Light",
+            "description": null,
+            "package": "Con yoghurt, Pote 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/69911.jpg"
+        }]
+    }, {
+        "id": "C_22",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Postres refrigerados",
+        "num_products": 7,
+        "top_products": [{
+            "id": 75682,
+            "brand": {
+                "id": 1583,
+                "name": "Schwartau"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5980.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.980/kg",
+            "regulatory_fees": [],
+            "price": 2990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Postre Frutos Rojos",
+            "description": null,
+            "package": "Rote Gruetze, Frasco 500 grs.",
+            "img_url": "https://s.superpal.com/product-images/75682.jpg"
+        }, {
+            "id": 75681,
+            "brand": {
+                "id": 12,
+                "name": "Ambrosoli"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 650.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4062.5,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.062/kg",
+            "regulatory_fees": [],
+            "price": 650.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Postre Crema",
+            "description": null,
+            "package": "Pasas al Ron, Caja 160 grs.",
+            "img_url": "https://s.superpal.com/product-images/75681.jpg"
+        }, {
+            "id": 74499,
+            "brand": {
+                "id": 12,
+                "name": "Ambrosoli"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 650.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5909.090909090909,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.909/kg",
+            "regulatory_fees": [],
+            "price": 650.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Postre Due",
+            "description": null,
+            "package": "Suspiro limeño, Caja 110 grs.",
+            "img_url": "https://s.superpal.com/product-images/74499.jpg"
+        }, {
+            "id": 88905,
+            "brand": {
+                "id": 1560,
+                "name": "San Remo"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2380.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per liter",
+                    "unit": "lt",
+                    "amount": 1700.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$1.700/lt",
+            "regulatory_fees": [],
+            "price": 2380.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pote para Fiambres",
+            "description": null,
+            "package": "Capacidad 1.4lt.",
+            "img_url": "https://s.superpal.com/product-images/88905.jpg"
+        }, {
+            "id": 88903,
+            "brand": {
+                "id": 2890,
+                "name": "Kendy"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2380.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 2380.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pote",
+            "description": null,
+            "package": "Rectangular Para Despensa",
+            "img_url": "https://s.superpal.com/product-images/88903.jpg"
+        }, {
+            "id": 74273,
+            "brand": {
+                "id": 1686,
+                "name": "Kendy Home"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1420.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 1420.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pote Hermético",
+            "description": null,
+            "package": "Pequeño, 1 Litro",
+            "img_url": "https://s.superpal.com/product-images/74273.jpg"
+        }, {
+            "id": 74252,
+            "brand": {
+                "id": 1686,
+                "name": "Kendy Home"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1060.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 1060.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Pote Hermético",
+            "description": null,
+            "package": "Pequeño, 0.6 Litros",
+            "img_url": "https://s.superpal.com/product-images/74252.jpg"
+        }]
+    }, {
+        "id": "C_28",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Quesos",
+        "num_products": 350,
+        "top_products": [{
+            "id": 67577,
+            "brand": {
+                "id": 1054,
+                "name": "Kastanon"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1790.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 1790.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Queso Mantecoso",
+            "description": null,
+            "package": "1/4 Kg Trozo, Mesón",
+            "img_url": "https://s.superpal.com/product-images/67577.jpg"
+        }, {
+            "id": 70503,
+            "brand": {
+                "id": 1179,
+                "name": "Arla"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2870.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 19133.333333333336,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$19.133/kg",
+            "regulatory_fees": [],
+            "price": 2870.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Queso en Cubitos",
+            "description": null,
+            "package": "Apetina feta, Finas hierbas, En aceite, 150 grs.",
+            "img_url": "https://s.superpal.com/product-images/70503.jpg"
+        }, {
+            "id": 70621,
+            "brand": {
+                "id": 1303,
+                "name": "Emmi"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 11870.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 29675.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$29.675/kg",
+            "regulatory_fees": [],
+            "price": 11870.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Queso Fondue",
+            "description": null,
+            "package": "Para fundir, Provencale, 400 grs.",
+            "img_url": "https://s.superpal.com/product-images/70621.jpg"
+        }, {
+            "id": 69437,
+            "brand": {
+                "id": 1183,
+                "name": "Las Aguilas"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 3350.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 11166.666666666668,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$11.167/kg",
+            "regulatory_fees": [],
+            "price": 3350.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Queso Kosher",
+            "description": null,
+            "package": "Granulado. 300 g.",
+            "img_url": "https://s.superpal.com/product-images/69437.jpg"
+        }, {
+            "id": 69390,
+            "brand": {
+                "id": 1155,
+                "name": "La Vaca que Ríe"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2990.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 21357.142857142855,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$21.357/kg",
+            "regulatory_fees": [],
+            "price": 2990.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Palitos de Queso",
+            "description": null,
+            "package": "Envase 140 g.",
+            "img_url": "https://s.superpal.com/product-images/69390.jpg"
+        }, {
+            "id": 69403,
+            "brand": {
+                "id": 55,
+                "name": "Quillayes"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1550.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 5166.666666666667,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$5.167/kg",
+            "regulatory_fees": [],
+            "price": 1550.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Quesillo Light Sin Sal",
+            "description": null,
+            "package": "Pote 300 grs.",
+            "img_url": "https://s.superpal.com/product-images/69403.jpg"
+        }, {
+            "id": 70218,
+            "brand": {
+                "id": 3634,
+                "name": "Père André"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4790.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 4790.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Queso Brie Coeur de Lion",
+            "description": null,
+            "package": "1/10 Kg Trozo, Mesón",
+            "img_url": "https://s.superpal.com/product-images/70218.jpg"
+        }, {
+            "id": 71151,
+            "brand": {
+                "id": 3634,
+                "name": "Père André"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 16490.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": null
+            },
+            "price_per_unit": "",
+            "regulatory_fees": [],
+            "price": 16490.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Queso Roquefort Papillon",
+            "description": null,
+            "package": "1/4 Kg Francés, Mesón",
+            "img_url": "https://s.superpal.com/product-images/71151.jpg"
+        }, {
+            "id": 69432,
+            "brand": {
+                "id": 40,
+                "name": "Santa Rosa"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2630.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 11688.888888888889,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$11.689/kg",
+            "regulatory_fees": [],
+            "price": 2630.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Salsa de Queso Cheddar",
+            "description": null,
+            "package": "Tradicional, Pote 225 grs.",
+            "img_url": "https://s.superpal.com/product-images/69432.jpg"
+        }, {
+            "id": 70169,
+            "brand": {
+                "id": 3634,
+                "name": "Père André"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 4790.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 38320.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$38.320/kg",
+            "regulatory_fees": [],
+            "price": 4790.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Queso Brie",
+            "description": null,
+            "package": "Gérard, Envasado 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/70169.jpg"
+        }]
+    }, {
+        "id": "C_24",
+        "img_url": "https://s.superpal.com/static/catalog/img/default_department_photo.jpg",
+        "name": "Yoghurt",
+        "num_products": 353,
+        "top_products": [{
+            "id": 67767,
+            "brand": {
+                "id": 55,
+                "name": "Quillayes"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 2780.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 3088.8888888888887,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$3.089/kg",
+            "regulatory_fees": [],
+            "price": 2780.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Yoghurt con Trozos de Frutas",
+            "description": null,
+            "package": "Papaya, Pote 900 grs.",
+            "img_url": "https://s.superpal.com/product-images/67767.jpg"
+        }, {
+            "id": 68491,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 230.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 1840.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$1.840/kg",
+            "regulatory_fees": [],
+            "price": 230.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Yoghurt Batido Light",
+            "description": null,
+            "package": "Frutilla, 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/68491.jpg"
+        }, {
+            "id": 68081,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 390.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4333.333333333334,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.333/kg",
+            "regulatory_fees": [],
+            "price": 390.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Batido",
+            "description": null,
+            "package": "Squeeze 90 g., Sabor Frutilla",
+            "img_url": "https://s.superpal.com/product-images/68081.jpg"
+        }, {
+            "id": 69868,
+            "brand": {
+                "id": 27,
+                "name": "Surlat"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 200.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 1600.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$1.600/kg",
+            "regulatory_fees": [],
+            "price": 200.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Yoghurt Kids",
+            "description": null,
+            "package": "Sabor frutilla, 125 g.",
+            "img_url": "https://s.superpal.com/product-images/69868.jpg"
+        }, {
+            "id": 69733,
+            "brand": {
+                "id": 19,
+                "name": "Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 570.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4560.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.560/kg",
+            "regulatory_fees": [],
+            "price": 570.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Manjarate",
+            "description": null,
+            "package": "Toffee, Pote 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/69733.jpg"
+        }, {
+            "id": 69509,
+            "brand": {
+                "id": 31,
+                "name": "Parmalat"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 1190.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 1322.2222222222222,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$1.322/kg",
+            "regulatory_fees": [],
+            "price": 1190.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Yoghurt Descremado Diet",
+            "description": null,
+            "package": "Frutilla, Bolsa 900 g",
+            "img_url": "https://s.superpal.com/product-images/69509.jpg"
+        }, {
+            "id": 69209,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 440.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 4400.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$4.400/kg",
+            "regulatory_fees": [],
+            "price": 440.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Flan",
+            "description": null,
+            "package": "Light, 100 grs. Vainilla.",
+            "img_url": "https://s.superpal.com/product-images/69209.jpg"
+        }, {
+            "id": 69041,
+            "brand": {
+                "id": 9,
+                "name": "Colun"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 380.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 3040.0,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$3.040/kg",
+            "regulatory_fees": [],
+            "price": 380.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Yoghurt con Trozos de Fruta",
+            "description": null,
+            "package": "Frutos, Naranja, Platano y Nuez, 125 grs.",
+            "img_url": "https://s.superpal.com/product-images/69041.jpg"
+        }, {
+            "id": 68648,
+            "brand": {
+                "id": 19,
+                "name": "Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 370.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 2114.285714285714,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$2.114/kg",
+            "regulatory_fees": [],
+            "price": 370.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Yoghurt Batido",
+            "description": null,
+            "package": "Frambuesa, 175 grs.",
+            "img_url": "https://s.superpal.com/product-images/68648.jpg"
+        }, {
+            "id": 68928,
+            "brand": {
+                "id": 19,
+                "name": "Soprole"
+            },
+            "kind": "PRODUCT",
+            "related_to": null,
+            "buy_unit": "UN",
+            "default_buy_unit": "UN",
+            "variable_weight": null,
+            "currency": "CLP",
+            "unit_conversion_rate": null,
+            "purchasable": true,
+            "pricing": {
+                "original_price": null,
+                "price": {
+                    "label": "Price",
+                    "amount": 890.0,
+                    "currency": "CLP"
+                },
+                "price_per_unit": {
+                    "label": "Price per kilogram",
+                    "unit": "kg",
+                    "amount": 7416.666666666667,
+                    "currency": "CLP"
+                }
+            },
+            "price_per_unit": "$7.417/kg",
+            "regulatory_fees": [],
+            "price": 890.0,
+            "original_price": null,
+            "label": null,
+            "description_sections": [],
+            "availability_status": null,
+            "nutritional_info": null,
+            "name": "Yoghurt Batido",
+            "description": null,
+            "package": "Zerolacto. Sabor Chirimoya. 120grs.",
+            "img_url": "https://s.superpal.com/product-images/68928.jpg"
+        }]
+    }]
+}
