@@ -17,6 +17,7 @@ class BranchPresenter {
     private var featuredDataSource: UICollectionViewDiffableDataSource<String, BranchPromotion>!
     
     private var alternativeDataSource: UICollectionViewDiffableDataSource<String, Department>!
+    private var alternativePromotionDataSource: UICollectionViewDiffableDataSource<BranchPromotion, BranchPromotion>!
     var branch: Branch?
     let service = BranchService()
     var branchDetailContainer: BranchDetailContainer? {
@@ -93,8 +94,27 @@ class BranchPresenter {
         guard let mainView = _viewController?.mainView else { return }
         mainView.alternativeBranchCollectionView.collectionView.register(DepartmentCollectionViewCell.self, forCellWithReuseIdentifier: DepartmentCollectionViewCell.reuseIdentifier)
         alternativeDataSource = UICollectionViewDiffableDataSource<String, Department>(collectionView: mainView.alternativeBranchCollectionView.collectionView, cellProvider: { (collectionView, indexPath, department) -> UICollectionViewCell? in
-            self.configureDepartment(DepartmentCollectionViewCell.self, with: department, for: indexPath)
+            let cell = self.configureDepartment(DepartmentCollectionViewCell.self, with: department, for: indexPath)
+            
+            return cell
         })
+        
+        mainView.alternativeBranchCollectionView.featuredDepartmentCollectionView.register(BranchPromotionSectionHeader.self, forSupplementaryViewOfKind: UICollectionView.elementKindSectionHeader, withReuseIdentifier: BranchPromotionSectionHeader.reuseIdentifier)
+        mainView.alternativeBranchCollectionView.featuredDepartmentCollectionView.register(PromotionCollectionViewCell.self, forCellWithReuseIdentifier: PromotionCollectionViewCell.reuseIdentifier)
+        alternativePromotionDataSource = UICollectionViewDiffableDataSource<BranchPromotion, BranchPromotion>(collectionView: mainView.alternativeBranchCollectionView.featuredDepartmentCollectionView) { (collectionView, indexPath, promotion) -> UICollectionViewCell? in
+            //remove unnecesary code
+            self.configurePromotion(PromotionCollectionViewCell.self, with: nil, for: indexPath)
+        }
+        
+        alternativePromotionDataSource?.supplementaryViewProvider = { [weak self]
+            collectionView, kind, indexPath in
+            guard let sectionHeader = collectionView.dequeueReusableSupplementaryView(ofKind: kind, withReuseIdentifier: BranchPromotionSectionHeader.reuseIdentifier, for: indexPath) as? BranchPromotionSectionHeader else { return nil }
+            
+            guard let promotion = self?.branchDetailContainer?.branch.featured?[indexPath.section] else { return nil }
+            sectionHeader.configure(promotion: promotion)
+            
+            return sectionHeader
+        }
     }
     
     func configure<T: SelfConfiguringProductCell>(_ cellType: T.Type, with product: Product, for indexPath: IndexPath) -> T {
@@ -105,7 +125,7 @@ class BranchPresenter {
         return cell
     }
     
-    func configurePromotion<T: SelfConfiguringPromotionCell>(_ cellType: T.Type, with protomotion: BranchPromotion, for indexPath: IndexPath) -> T {
+    func configurePromotion<T: SelfConfiguringPromotionCell>(_ cellType: T.Type, with protomotion: BranchPromotion?, for indexPath: IndexPath) -> T {
         guard let cell = _viewController?.mainView.branchCollectionView.featuredDepartmentCollectionView.dequeueReusableCell(withReuseIdentifier: cellType.reuseIdentifier, for: indexPath) as? T else {
             fatalError("Unable to dequeue \(cellType)")
         }
@@ -140,10 +160,12 @@ class BranchPresenter {
         }
         let promotions = self.branchDetailContainer?.branch.featured
         applyFeaturedSnapshot(promotions: promotions)
+        applyAlternativeFeaturedSnapshot(promotions: promotions)
         autoScrollPromotionsTimer?.invalidate()
         autoScrollPromotionsIndex = 0
         autoScrollPromotionsTimer = Timer.scheduledTimer(timeInterval: 4.0, target: self, selector: #selector(autoScrollPromotions), userInfo: nil, repeats: true)
-        guard let departments = self.branchDetailContainer?.departments else { return }
+        //Alternative branch view
+        let departments = branchDetailContainer.departments
         applyDepartmentSnapshot(departments: departments)
     }
     
@@ -155,6 +177,9 @@ class BranchPresenter {
             autoScrollPromotionsIndex = 0
         }
         featuredDepartmentCollectionView.scrollToItem(at: IndexPath(item: autoScrollPromotionsIndex, section: 0), at: .top, animated: true)
+        if let alternativeCollectionView = _viewController?.mainView.alternativeBranchCollectionView.featuredDepartmentCollectionView {
+            alternativeCollectionView.scrollToItem(at: IndexPath(item: 0, section: autoScrollPromotionsIndex), at: .top, animated: true)
+        }
     }
     
     func applySnapshot(department: Department) {
@@ -175,6 +200,16 @@ class BranchPresenter {
         snapshot.appendSections(["department"])
         snapshot.appendItems(departments, toSection: "department")
         alternativeDataSource.apply(snapshot)
+    }
+    
+    func applyAlternativeFeaturedSnapshot(promotions: [BranchPromotion]?) {
+        guard let promotions = promotions else { return }
+        var snapshot = alternativePromotionDataSource.snapshot()
+        snapshot.appendSections(promotions)
+        for promotion in promotions {
+            snapshot.appendItems([promotion], toSection: promotion)
+        }
+        alternativePromotionDataSource.apply(snapshot)
     }
     
     func applyFeaturedSnapshot(promotions: [BranchPromotion]?) {
@@ -229,5 +264,9 @@ extension BranchPresenter: BranchPresenterDelegate {
         let product = department.topProducts[indexPath.row]
         departmentPresenter?.configureWith(department, product: product)
         viewController.push()
+    }
+    
+    func setPage(_ page: Int) {
+        autoScrollPromotionsIndex = page
     }
 }

@@ -23,6 +23,10 @@ class AlternativeBranchCollectionView: UIView {
     lazy var featuredDepartmentCollectionView: UICollectionView = {
         let collectionView = UICollectionView(frame: .zero, collectionViewLayout: createFeaturedCompositionalLayout())
         collectionView.translatesAutoresizingMaskIntoConstraints = false
+        collectionView.showsVerticalScrollIndicator = false
+        collectionView.showsHorizontalScrollIndicator = false
+        collectionView.isPagingEnabled = true
+        collectionView.clipsToBounds = false
         return collectionView
     }()
     
@@ -45,13 +49,13 @@ class AlternativeBranchCollectionView: UIView {
         self.addSubview(collectionView)
         collectionView.addSubview(featuredDepartmentCollectionView)
         collectionView.backgroundColor = .systemGroupedBackground
-        featuredDepartmentCollectionView.backgroundColor = .red
+        featuredDepartmentCollectionView.backgroundColor = .systemGroupedBackground
     }
     func configureConstraints() {
         collectionView.contentInset = UIEdgeInsets(top: 180, left: 0, bottom: 0, right: 0)
         NSLayoutConstraint.activate([
-            self.featuredDepartmentCollectionView.leadingAnchor.constraint(equalTo: self.collectionView.frameLayoutGuide.leadingAnchor),
-            self.featuredDepartmentCollectionView.trailingAnchor.constraint(equalTo: self.collectionView.frameLayoutGuide.trailingAnchor),
+            self.featuredDepartmentCollectionView.leadingAnchor.constraint(equalTo: self.collectionView.frameLayoutGuide.leadingAnchor, constant: 24),
+            self.featuredDepartmentCollectionView.trailingAnchor.constraint(equalTo: self.collectionView.frameLayoutGuide.trailingAnchor, constant: -24),
             self.featuredDepartmentCollectionView.bottomAnchor.constraint(equalTo: self.collectionView.contentLayoutGuide.topAnchor),
             self.featuredDepartmentCollectionView.heightAnchor.constraint(equalToConstant: 180),
             self.collectionView.topAnchor.constraint(equalTo: self.safeAreaLayoutGuide.topAnchor),
@@ -76,7 +80,7 @@ class AlternativeBranchCollectionView: UIView {
             return self.layoutFeaturedSectionBuilder.createFeaturedDepartmentSection()
         }
         let configuration = UICollectionViewCompositionalLayoutConfiguration ()
-        configuration.interSectionSpacing = 20
+        configuration.scrollDirection = .horizontal
         layout.configuration = configuration
         return layout
     }

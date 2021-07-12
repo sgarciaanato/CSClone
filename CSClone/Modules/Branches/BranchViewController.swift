@@ -18,6 +18,7 @@ class BranchViewController: UIViewController {
                 _mainView = BranchViewControllerContainer()
                 _mainView?.branchCollectionView.delegate = self
                 _mainView?.aislesCollectionView.delegate = self
+                _mainView?.alternativeBranchCollectionView.featuredDepartmentCollectionView.delegate = self
             }
             return _mainView
         }
@@ -53,5 +54,10 @@ extension BranchViewController: AisleDepartmentDelegate {
 extension BranchViewController: UICollectionViewDelegate {
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         presenter?.collectionView(collectionView, didSelectItemAt: indexPath)
+    }
+    func scrollViewDidEndDecelerating(_ scrollView: UIScrollView) {
+        guard scrollView == _mainView?.alternativeBranchCollectionView.featuredDepartmentCollectionView else { return }
+        let page: Int = Int(scrollView.contentOffset.x) / Int(scrollView.frame.width)
+        presenter?.setPage(page)
     }
 }

@@ -40,8 +40,9 @@ class PromotionCollectionViewCell: UICollectionViewCell, SelfConfiguringPromotio
         fatalError("init(coder:) has not been implemented")
     }
     
-    func configureWith(_ promotion: BranchPromotion) {
-        guard let x3 = promotion.imageSet?.x3 else { return }
+    func configureWith(_ promotion: BranchPromotion?) {
+        guard let prom = promotion, let x3 = prom.imageSet?.x3 else { return }
+        imageView.backgroundColor = UIColor.hexStringToUIColor(hex: prom.backgroundColor)
         imageView.downloadImage(from: x3)
     }
 }

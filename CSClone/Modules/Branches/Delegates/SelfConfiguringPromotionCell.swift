@@ -7,5 +7,5 @@
 
 protocol SelfConfiguringPromotionCell {
     static var reuseIdentifier: String { get }
-    func configureWith(_ promotion: BranchPromotion)
+    func configureWith(_ promotion: BranchPromotion?)
 }
