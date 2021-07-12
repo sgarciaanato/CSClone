@@ -19,6 +19,7 @@ class BranchViewController: UIViewController {
                 _mainView?.branchCollectionView.delegate = self
                 _mainView?.aislesCollectionView.delegate = self
                 _mainView?.alternativeBranchCollectionView.featuredDepartmentCollectionView.delegate = self
+                _mainView?.alternativeBranchCollectionView.collectionView.delegate = self
             }
             return _mainView
         }

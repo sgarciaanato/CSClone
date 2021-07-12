@@ -10,7 +10,6 @@ import UIKit
 class StoreListPresenter {
     
     var branchPresenter: BranchPresenter?
-    
     let service = StoreListService()
     
     var stores: [StoreContainer]? {

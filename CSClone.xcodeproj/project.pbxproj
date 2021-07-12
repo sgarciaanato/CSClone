@@ -82,6 +82,11 @@
 		8E6D2B652698C06B002BACF3 /* AlternativeBranchCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6D2B642698C06B002BACF3 /* AlternativeBranchCollectionView.swift */; };
 		8E6D2B672698CB0A002BACF3 /* AlternativeBranchLayoutSectionBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6D2B662698CB0A002BACF3 /* AlternativeBranchLayoutSectionBuilder.swift */; };
 		8E6D2B692698CB23002BACF3 /* AlternativeBranchLayoutFeaturedSectionBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6D2B682698CB23002BACF3 /* AlternativeBranchLayoutFeaturedSectionBuilder.swift */; };
+		8EB446B9269CEEA000790679 /* BranchPresenter+BranchCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB446B8269CEEA000790679 /* BranchPresenter+BranchCollectionView.swift */; };
+		8EB446BB269CEF1500790679 /* BranchPresenter+FeaturedCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB446BA269CEF1500790679 /* BranchPresenter+FeaturedCollectionView.swift */; };
+		8EB446BD269CEF3A00790679 /* BranchPresenter+AislesCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB446BC269CEF3A00790679 /* BranchPresenter+AislesCollectionView.swift */; };
+		8EB446BF269CEF6600790679 /* BranchPresenter+AlternativeBranchCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB446BE269CEF6600790679 /* BranchPresenter+AlternativeBranchCollectionView.swift */; };
+		8EB446C1269CEF8D00790679 /* BranchPresenter+AlternativeFeaturedCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB446C0269CEF8D00790679 /* BranchPresenter+AlternativeFeaturedCollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -162,6 +167,11 @@
 		8E6D2B642698C06B002BACF3 /* AlternativeBranchCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternativeBranchCollectionView.swift; sourceTree = "<group>"; };
 		8E6D2B662698CB0A002BACF3 /* AlternativeBranchLayoutSectionBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternativeBranchLayoutSectionBuilder.swift; sourceTree = "<group>"; };
 		8E6D2B682698CB23002BACF3 /* AlternativeBranchLayoutFeaturedSectionBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternativeBranchLayoutFeaturedSectionBuilder.swift; sourceTree = "<group>"; };
+		8EB446B8269CEEA000790679 /* BranchPresenter+BranchCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BranchPresenter+BranchCollectionView.swift"; sourceTree = "<group>"; };
+		8EB446BA269CEF1500790679 /* BranchPresenter+FeaturedCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BranchPresenter+FeaturedCollectionView.swift"; sourceTree = "<group>"; };
+		8EB446BC269CEF3A00790679 /* BranchPresenter+AislesCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BranchPresenter+AislesCollectionView.swift"; sourceTree = "<group>"; };
+		8EB446BE269CEF6600790679 /* BranchPresenter+AlternativeBranchCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BranchPresenter+AlternativeBranchCollectionView.swift"; sourceTree = "<group>"; };
+		8EB446C0269CEF8D00790679 /* BranchPresenter+AlternativeFeaturedCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BranchPresenter+AlternativeFeaturedCollectionView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -266,21 +276,16 @@
 		8E6D2ABD268B811A002BACF3 /* Branches */ = {
 			isa = PBXGroup;
 			children = (
+				8EB446B6269CEE5100790679 /* Presenter */,
+				8EB446B5269CE8B300790679 /* AlternativeBranch */,
+				8EB446B4269CE8A300790679 /* AislesCollectionView */,
+				8EB446B3269CE87400790679 /* BranchCollectionView */,
 				8E6D2B17269352F1002BACF3 /* Cells */,
 				8E6D2AED268D063C002BACF3 /* Delegates */,
 				8E6D2ABE268B8125002BACF3 /* Models */,
-				8E6D2AE9268D05CC002BACF3 /* BranchPresenter.swift */,
 				8E6D2AEB268D0624002BACF3 /* BranchViewController.swift */,
-				8E6D2AF9268F6CF8002BACF3 /* BranchCollectionView.swift */,
-				8E6D2B0B268F9A7B002BACF3 /* BranchLayoutSectionBuilder.swift */,
 				8E6D2B0D268F9C17002BACF3 /* BranchService.swift */,
-				8E6D2B3D2694F9BD002BACF3 /* BranchLayoutFeaturedSectionBuilder.swift */,
 				8E6D2B4326960E72002BACF3 /* BranchViewControllerContainer.swift */,
-				8E6D2B4526961C88002BACF3 /* AislesCollectionView.swift */,
-				8E6D2B4726961D9D002BACF3 /* AislesLayoutSectionBuilder.swift */,
-				8E6D2B642698C06B002BACF3 /* AlternativeBranchCollectionView.swift */,
-				8E6D2B662698CB0A002BACF3 /* AlternativeBranchLayoutSectionBuilder.swift */,
-				8E6D2B682698CB23002BACF3 /* AlternativeBranchLayoutFeaturedSectionBuilder.swift */,
 			);
 			path = Branches;
 			sourceTree = "<group>";
@@ -434,6 +439,48 @@
 			path = Cells;
 			sourceTree = "<group>";
 		};
+		8EB446B3269CE87400790679 /* BranchCollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				8E6D2AF9268F6CF8002BACF3 /* BranchCollectionView.swift */,
+				8E6D2B0B268F9A7B002BACF3 /* BranchLayoutSectionBuilder.swift */,
+				8E6D2B3D2694F9BD002BACF3 /* BranchLayoutFeaturedSectionBuilder.swift */,
+			);
+			path = BranchCollectionView;
+			sourceTree = "<group>";
+		};
+		8EB446B4269CE8A300790679 /* AislesCollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				8E6D2B4526961C88002BACF3 /* AislesCollectionView.swift */,
+				8E6D2B4726961D9D002BACF3 /* AislesLayoutSectionBuilder.swift */,
+			);
+			path = AislesCollectionView;
+			sourceTree = "<group>";
+		};
+		8EB446B5269CE8B300790679 /* AlternativeBranch */ = {
+			isa = PBXGroup;
+			children = (
+				8E6D2B642698C06B002BACF3 /* AlternativeBranchCollectionView.swift */,
+				8E6D2B662698CB0A002BACF3 /* AlternativeBranchLayoutSectionBuilder.swift */,
+				8E6D2B682698CB23002BACF3 /* AlternativeBranchLayoutFeaturedSectionBuilder.swift */,
+			);
+			path = AlternativeBranch;
+			sourceTree = "<group>";
+		};
+		8EB446B6269CEE5100790679 /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+				8E6D2AE9268D05CC002BACF3 /* BranchPresenter.swift */,
+				8EB446B8269CEEA000790679 /* BranchPresenter+BranchCollectionView.swift */,
+				8EB446BA269CEF1500790679 /* BranchPresenter+FeaturedCollectionView.swift */,
+				8EB446BC269CEF3A00790679 /* BranchPresenter+AislesCollectionView.swift */,
+				8EB446BE269CEF6600790679 /* BranchPresenter+AlternativeBranchCollectionView.swift */,
+				8EB446C0269CEF8D00790679 /* BranchPresenter+AlternativeFeaturedCollectionView.swift */,
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -527,6 +574,7 @@
 				8E6D2B3C2694DF21002BACF3 /* ProductViewController.swift in Sources */,
 				8E6D2AAF268663AF002BACF3 /* StoreListViewController.swift in Sources */,
 				8E6D2AEC268D0624002BACF3 /* BranchViewController.swift in Sources */,
+				8EB446BD269CEF3A00790679 /* BranchPresenter+AislesCollectionView.swift in Sources */,
 				8E6D2B402694FCC7002BACF3 /* PromotionCollectionViewCell.swift in Sources */,
 				8E6D2AE0268BB2F4002BACF3 /* UIColor+extension.swift in Sources */,
 				8E6D2AEA268D05CC002BACF3 /* BranchPresenter.swift in Sources */,
@@ -536,6 +584,7 @@
 				8E6D2AC2268B826F002BACF3 /* BranchPoster.swift in Sources */,
 				8E6D2B602698AE28002BACF3 /* SelfConfiguringDepartmentCell.swift in Sources */,
 				8E6D2B2F2694D0E9002BACF3 /* DepartmentPresenterDelegate.swift in Sources */,
+				8EB446B9269CEEA000790679 /* BranchPresenter+BranchCollectionView.swift in Sources */,
 				8E6D2B4C269627AD002BACF3 /* AisleCollectionViewCell.swift in Sources */,
 				8E6D2B622698B0CF002BACF3 /* BranchPromotionSectionHeader.swift in Sources */,
 				8E6D2B692698CB23002BACF3 /* AlternativeBranchLayoutFeaturedSectionBuilder.swift in Sources */,
@@ -565,7 +614,9 @@
 				8E6D2B652698C06B002BACF3 /* AlternativeBranchCollectionView.swift in Sources */,
 				8E6D2AE2268CE792002BACF3 /* StoreCollectionViewCell.swift in Sources */,
 				8E6D2B4426960E72002BACF3 /* BranchViewControllerContainer.swift in Sources */,
+				8EB446BB269CEF1500790679 /* BranchPresenter+FeaturedCollectionView.swift in Sources */,
 				8E6D2ACA268B9130002BACF3 /* StoreListPresenter.swift in Sources */,
+				8EB446C1269CEF8D00790679 /* BranchPresenter+AlternativeFeaturedCollectionView.swift in Sources */,
 				8E6D2A9D26865CC1002BACF3 /* ViewController.swift in Sources */,
 				8E6D2ADC268B9E00002BACF3 /* UIImageView+Extension.swift in Sources */,
 				8E6D2B1226934B3D002BACF3 /* SelfConfiguringProductCell.swift in Sources */,
@@ -575,6 +626,7 @@
 				8E6D2B4E269634E1002BACF3 /* AisleSectionHeader.swift in Sources */,
 				8E6D2A9B26865CC1002BACF3 /* SceneDelegate.swift in Sources */,
 				8E6D2AEF268D0646002BACF3 /* BranchPresenterDelegate.swift in Sources */,
+				8EB446BF269CEF6600790679 /* BranchPresenter+AlternativeBranchCollectionView.swift in Sources */,
 				8E6D2B672698CB0A002BACF3 /* AlternativeBranchLayoutSectionBuilder.swift in Sources */,
 				8E6D2B0E268F9C17002BACF3 /* BranchService.swift in Sources */,
 			);

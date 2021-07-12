@@ -15,6 +15,7 @@ class DepartmentCollectionViewCell: UICollectionViewCell, SelfConfiguringDepartm
     private var dataSource: UICollectionViewDiffableDataSource<Department, Product>!
     let layoutSectionBuilder: AlternativeBranchLayoutSectionBuilder!
     var department: Department?
+    var delegate: BranchPresenterDelegate?
     
     override init(frame: CGRect) {
         headerBackgroundImageView = UIImageView()
@@ -37,6 +38,7 @@ class DepartmentCollectionViewCell: UICollectionViewCell, SelfConfiguringDepartm
         headerBackgroundImageView.contentMode = .scaleAspectFill
         departmentTitleLabel.textColor = UIColor.white
         productCollectionView.backgroundColor = .systemGroupedBackground
+        productCollectionView.delegate = self
     }
     
     func configureConstraint(){
@@ -115,5 +117,12 @@ class DepartmentCollectionViewCell: UICollectionViewCell, SelfConfiguringDepartm
         productCollectionView.bounces = false
         productCollectionView.alwaysBounceVertical = false
         productCollectionView.alwaysBounceHorizontal = false
+    }
+}
+
+extension DepartmentCollectionViewCell: UICollectionViewDelegate {
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        guard let product = department?.topProducts[indexPath.row], let department = self.department else { return }
+        delegate?.selectProduct(product: product, department: department)
     }
 }
