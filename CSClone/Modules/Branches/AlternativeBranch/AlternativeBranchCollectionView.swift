@@ -69,7 +69,7 @@ class AlternativeBranchCollectionView: UIView {
         let layout = UICollectionViewCompositionalLayout { sectionIndex, layoutEnviroment in
             return self.layoutSectionBuilder.createDepartmentSection()
         }
-        let configuration = UICollectionViewCompositionalLayoutConfiguration ()
+        let configuration = UICollectionViewCompositionalLayoutConfiguration()
         configuration.interSectionSpacing = 20
         layout.configuration = configuration
         return layout

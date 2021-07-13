@@ -18,6 +18,7 @@ class AlternativeBranchLayoutSectionBuilder {
         let group = NSCollectionLayoutGroup.horizontal(layoutSize: groupSize,subitems: [item])
         
         let section = NSCollectionLayoutSection(group: group)
+        
         return section
     }
     

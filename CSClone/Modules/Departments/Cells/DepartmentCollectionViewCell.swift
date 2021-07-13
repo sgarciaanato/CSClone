@@ -114,9 +114,6 @@ class DepartmentCollectionViewCell: UICollectionViewCell, SelfConfiguringDepartm
         departmentTitleLabel.text = department.name
         productCollectionView.collectionViewLayout = createCompositionalLayout()
         applySnapshot(department: department)
-        productCollectionView.bounces = false
-        productCollectionView.alwaysBounceVertical = false
-        productCollectionView.alwaysBounceHorizontal = false
     }
 }
 
