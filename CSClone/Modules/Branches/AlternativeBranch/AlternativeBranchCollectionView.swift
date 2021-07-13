@@ -15,6 +15,7 @@ class AlternativeBranchCollectionView: UIView {
             self.featuredDepartmentCollectionView.collectionViewLayout = createFeaturedCompositionalLayout()
         }
     }
+    var branchDepartmentPresenter: BranchDepartmentDelegate?
     lazy var collectionView: UICollectionView = {
         let collectionView = UICollectionView(frame: .zero, collectionViewLayout: createCompositionalLayout())
         collectionView.translatesAutoresizingMaskIntoConstraints = false
@@ -67,7 +68,7 @@ class AlternativeBranchCollectionView: UIView {
     
     private func createCompositionalLayout() -> UICollectionViewLayout {
         let layout = UICollectionViewCompositionalLayout { sectionIndex, layoutEnviroment in
-            return self.layoutSectionBuilder.createDepartmentSection()
+            return self.layoutSectionBuilder.createDepartmentSection(layoutEnviroment: layoutEnviroment, branchDepartmentPresenter: self.branchDepartmentPresenter, department: self.branchDetailContainer?.departments[sectionIndex])
         }
         let configuration = UICollectionViewCompositionalLayoutConfiguration()
         configuration.interSectionSpacing = 20
@@ -79,7 +80,7 @@ class AlternativeBranchCollectionView: UIView {
         let layout = UICollectionViewCompositionalLayout { sectionIndex, layoutEnviroment in
             return self.layoutFeaturedSectionBuilder.createFeaturedDepartmentSection()
         }
-        let configuration = UICollectionViewCompositionalLayoutConfiguration ()
+        let configuration = UICollectionViewCompositionalLayoutConfiguration()
         configuration.scrollDirection = .horizontal
         layout.configuration = configuration
         return layout

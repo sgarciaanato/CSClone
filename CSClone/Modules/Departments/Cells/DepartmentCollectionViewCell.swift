@@ -59,6 +59,7 @@ class DepartmentCollectionViewCell: UICollectionViewCell, SelfConfiguringDepartm
             productCollectionView.leadingAnchor.constraint(equalTo: self.contentView.leadingAnchor),
             productCollectionView.trailingAnchor.constraint(equalTo: self.contentView.trailingAnchor),
             productCollectionView.bottomAnchor.constraint(equalTo: self.contentView.bottomAnchor),
+            productCollectionView.heightAnchor.constraint(equalToConstant: 160),
         ])
     }
     
