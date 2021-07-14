@@ -11,28 +11,25 @@ class BranchViewControllerContainer: UIView {
     
     var branchCollectionView: BranchCollectionView!
     var aislesCollectionView: AislesCollectionView!
-    var ordersView: UIView!
     var alternativeBranchCollectionView: AlternativeBranchCollectionView!
     var buttonsStackView: UIStackView!
     var featuredButton: UIButton!
     var aislesButton: UIButton!
-    var ordersButton: UIButton!
+    var alternativeBranchButton: UIButton!
     var buttonsArray: [UIButton]!
     
     init() {
         branchCollectionView = BranchCollectionView()
         aislesCollectionView = AislesCollectionView()
-        ordersView = UIView()
         alternativeBranchCollectionView = AlternativeBranchCollectionView()
         buttonsStackView = UIStackView()
         featuredButton = UIButton()
         aislesButton = UIButton()
-        ordersButton = UIButton()
-        buttonsArray = [featuredButton, aislesButton, ordersButton]
+        alternativeBranchButton = UIButton()
+        buttonsArray = [featuredButton, aislesButton, alternativeBranchButton]
         super.init(frame: .zero)
         self.addSubview(branchCollectionView)
         self.addSubview(aislesCollectionView)
-        self.addSubview(ordersView)
         self.addSubview(buttonsStackView)
         self.addSubview(alternativeBranchCollectionView)
         configureViews()
@@ -44,10 +41,7 @@ class BranchViewControllerContainer: UIView {
     }
     
     func configureViews() {
-        aislesCollectionView.backgroundColor = UIColor.brown
-        ordersView.backgroundColor = UIColor.orange
         aislesCollectionView.isHidden = true
-        ordersView.isHidden = true
         alternativeBranchCollectionView.isHidden = true
         for button in buttonsArray {
             buttonsStackView.addArrangedSubview(button)
@@ -61,26 +55,23 @@ class BranchViewControllerContainer: UIView {
         
         featuredButton.setTitle("Featured", for: .normal)
         aislesButton.setTitle("Aisles", for: .normal)
-        ordersButton.setTitle("Orders", for: .normal)
+        alternativeBranchButton.setTitle("Alternative", for: .normal)
         
         featuredButton.addTarget(self, action: #selector(tapFeature), for: .touchUpInside)
         aislesButton.addTarget(self, action: #selector(tapAisles), for: .touchUpInside)
-        ordersButton.addTarget(self, action: #selector(tapOrders), for: .touchUpInside)
+        alternativeBranchButton.addTarget(self, action: #selector(tapAlternativeBranch), for: .touchUpInside)
     }
     
     func configureConstraints(){
         branchCollectionView.translatesAutoresizingMaskIntoConstraints = false
         aislesCollectionView.translatesAutoresizingMaskIntoConstraints = false
-        ordersView.translatesAutoresizingMaskIntoConstraints = false
         alternativeBranchCollectionView.translatesAutoresizingMaskIntoConstraints = false
         buttonsStackView.translatesAutoresizingMaskIntoConstraints = false
         let bottomBranchCollectionConstraint = branchCollectionView.bottomAnchor.constraint(equalTo: buttonsStackView.topAnchor)
         let bottomAislesCollectionConstraint = aislesCollectionView.bottomAnchor.constraint(equalTo: buttonsStackView.topAnchor)
-        let bottomOrdersCollectionConstraint = ordersView.bottomAnchor.constraint(equalTo: buttonsStackView.topAnchor)
         bottomBranchCollectionConstraint.priority = UILayoutPriority(750)
         bottomAislesCollectionConstraint.priority = UILayoutPriority(750)
-        bottomOrdersCollectionConstraint.priority = UILayoutPriority(750)
-        for view in [branchCollectionView, aislesCollectionView, ordersView, alternativeBranchCollectionView] {
+        for view in [branchCollectionView, aislesCollectionView, alternativeBranchCollectionView] {
             NSLayoutConstraint.activate([
                 view!.topAnchor.constraint(equalTo: self.safeAreaLayoutGuide.topAnchor),
                 view!.leadingAnchor.constraint(equalTo: self.safeAreaLayoutGuide.leadingAnchor),
@@ -104,7 +95,6 @@ class BranchViewControllerContainer: UIView {
         featuredButton.backgroundColor = .systemPink
         featuredButton.setTitleColor(UIColor.systemBackground, for: .normal)
         aislesCollectionView.isHidden = true
-        ordersView.isHidden = true
         alternativeBranchCollectionView.isHidden = true
         branchCollectionView.isHidden = false
     }
@@ -119,36 +109,21 @@ class BranchViewControllerContainer: UIView {
         aislesButton.backgroundColor = .systemPink
         aislesButton.setTitleColor(UIColor.systemBackground, for: .normal)
         branchCollectionView.isHidden = true
-        ordersView.isHidden = true
         alternativeBranchCollectionView.isHidden = true
         aislesCollectionView.isHidden = false
     }
     
-    @objc func tapOrders() {
-        if !ordersView.isHidden {
-            
-            for button in buttonsArray {
-                button.layer.borderColor = UIColor.systemPink.cgColor
-                button.backgroundColor = UIColor.clear
-                button.setTitleColor(.systemPink, for: .normal)
-            }
-            branchCollectionView.isHidden = true
-            aislesCollectionView.isHidden = true
-            ordersView.isHidden = true
-            alternativeBranchCollectionView.isHidden = false
-            return
-        }
+    @objc func tapAlternativeBranch() {
         for button in buttonsArray {
             button.layer.borderColor = UIColor.systemPink.cgColor
             button.backgroundColor = UIColor.clear
             button.setTitleColor(.systemPink, for: .normal)
         }
-        ordersButton.backgroundColor = .systemPink
-        ordersButton.setTitleColor(UIColor.systemBackground, for: .normal)
+        alternativeBranchButton.backgroundColor = .systemPink
+        alternativeBranchButton.setTitleColor(UIColor.systemBackground, for: .normal)
         branchCollectionView.isHidden = true
         aislesCollectionView.isHidden = true
-        alternativeBranchCollectionView.isHidden = true
-        ordersView.isHidden = false
+        alternativeBranchCollectionView.isHidden = false
     }
     
 }
