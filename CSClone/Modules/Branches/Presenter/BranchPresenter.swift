@@ -116,7 +116,7 @@ extension BranchPresenter: BranchPresenterDelegate {
             guard let department = branchDetailContainer?.departments[indexPath.section] else { return }
             let product = department.topProducts[indexPath.row]
             departmentPresenter?.configureWith(department, product: product)
-            viewController.push()
+            viewController.push(animated: false)
             break
         case mainView.branchCollectionView.featuredDepartmentCollectionView:
             guard let url = branchDetailContainer?.branch.featured?[indexPath.row].url else { return }

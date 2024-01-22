@@ -30,9 +30,9 @@ class BranchViewController: UIViewController {
         view.backgroundColor = UIColor.systemGroupedBackground
     }
     
-    func push() {
+    func push(animated: Bool = true) {
         guard let viewController = presenter?.departmentPresenter?.viewController else { return }
-        self.navigationController?.pushViewController(viewController, animated: true)
+        self.navigationController?.pushViewController(viewController, animated: animated)
     }
     
 }
